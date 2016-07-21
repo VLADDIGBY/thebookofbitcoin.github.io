@@ -28,6 +28,6 @@ body: {
     z-index: 9999;
 }
 .chunk.empty .fee {
-    background: #020;
+    visibility: hidden;
 }
 
