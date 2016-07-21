@@ -13,7 +13,7 @@ body: {
     position: relative;
 }
 .chunk.empty {
-    background: #eee !important;
+    background: #f7f7f7 !important;
     box-shadow: none;
 }
 .chunk .fee {
