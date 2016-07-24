@@ -13144,5 +13144,20 @@
     "usd_cents_per_bitcoin": 65486,
     "block_hash": "0000000000000000016fe48055af86cbcb757c9096c0146ddb716473a0a40700",
     "block_number": 422116
+  },
+  "422117": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 100
+      }
+    ],
+    "data_storage_percent": null,
+    "fixed_fee_percent": null,
+    "usd_cents_per_bitcoin": 65486,
+    "block_hash": "000000000000000003f030620fb913e1a3f11fbd95108a0c9f15dde75d65f19e",
+    "block_number": 422117
   }
 }
