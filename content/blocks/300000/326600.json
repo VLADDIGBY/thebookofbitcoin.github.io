@@ -741,5 +741,73 @@
     "mining_pool_id": "eligius",
     "mining_pool_name": "Eligius",
     "minutes_since_last_block": 6
+  },
+  "326790": {
+    "block_full_percent": 41,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 59
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "62e0d3d4e54db67a0e2cc6965b88432d83560480aa2ec3559d835e62a9950ed1",
+        "percent": 41,
+        "range": 15,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "743210c5b0dfb688e756819d5227849e7c00d54e73bddc3343aef1b748341a4e",
+        "percent": 26,
+        "range": 7,
+        "satoshis_per_byte_fee": 16
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "11e1a01cf53a01c88c37795c42b3972042a6fa4155ca1f202ffa00d1317ed568",
+        "percent": 19,
+        "range": 2,
+        "satoshis_per_byte_fee": 27
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "2d35814113d0cd137f3d97d615fbbe2aea439a25b37b871631042536fbc1ddf8",
+        "percent": 17,
+        "range": 14,
+        "satoshis_per_byte_fee": 37
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "0d253531f5f069ce8395bd7c096e64db97660b973b6e9d127399f1e8e4128226",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 47
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "3e3dadcdff0544eb33f8bfda3685604977c14b6229a2d02972035c1404746505",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 57
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "48f5f9e90c9940302c204b8abe42b013b7809a4d165016dcf2b178032a324823",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 79
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 96,
+    "usd_cents_per_bitcoin": 35586,
+    "block_hash": "000000000000000015e574eafab6371c55651cea2b2a18473341142b7c05af70",
+    "block_number": 326790,
+    "block_network_arrival_date": "2014-10-24T14:44:42.000Z",
+    "mining_pool_id": "ghashio",
+    "mining_pool_name": "GHash.IO",
+    "minutes_since_last_block": 15
   }
 }
