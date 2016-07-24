@@ -8722,5 +8722,129 @@
     "mining_pool_id": null,
     "mining_pool_name": null,
     "minutes_since_last_block": 9
+  },
+  "422079": {
+    "block_full_percent": 79,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 20
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "98447b0d034c9f1a8ad4f5dab87fdbdfc7837d8f52048ce413cde62579c044df",
+        "percent": 80,
+        "range": 3,
+        "satoshis_per_byte_fee": 20
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "29a180374fb59ee7a6047244bc3333f5be27c34a30f581f46fd66a50cc9cc051",
+        "percent": 77,
+        "range": 5,
+        "satoshis_per_byte_fee": 27
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "d6f5b97d8998569bb93c410feb65121ee584524318e4357d92fae5b3cd0a56e4",
+        "percent": 72,
+        "range": 5,
+        "satoshis_per_byte_fee": 32
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "c6aad56decc7553ab58f42ecb93f7f3223a5b1d47873e16a743dfbcf1c8a8607",
+        "percent": 67,
+        "range": 8,
+        "satoshis_per_byte_fee": 38
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "80aa0dc93c9797dccc031378f8360b31a4ffd3f363fc803666f17c0cea566279",
+        "percent": 59,
+        "range": 5,
+        "satoshis_per_byte_fee": 44
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "dce0128ca270602a6ddaa8c1e85805af3d44d7b727e19e496e50b88fc4ab9844",
+        "percent": 54,
+        "range": 12,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "07c03ca314d3c1e327d8638c762e6377cff3d8fb87a32df4738ce3c2ad753729",
+        "percent": 42,
+        "range": 33,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "9abacc2b7cda9e1a01e29816a056c0ad937cd6dbbf68e5da580167b1d3c807c8",
+        "percent": 9,
+        "range": 2,
+        "satoshis_per_byte_fee": 62
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "bc49576c8cb465ed746ef7af1eafb1397e3ba5f6354cddea0cb5378a34c960c1",
+        "percent": 7,
+        "range": 1,
+        "satoshis_per_byte_fee": 68
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "e60e728c38923be7de238d80e87cdc7e1aea3483e92b08a321b0694b2e2509ff",
+        "percent": 6,
+        "range": 1,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "ec85c5f5e1f33403d54fc330f3300844fc9510ffd5446ad01b30818f8aad30d3",
+        "percent": 5,
+        "range": 1,
+        "satoshis_per_byte_fee": 85
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "93b25bf093dd0fd4fef02f4d66ecf2d9b7e5e3c6f282e2eb788c36967a97b70b",
+        "percent": 4,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      },
+      {
+        "fee_in_dollars": "0.17",
+        "lowest_fee_txid": "75f9751f976fcb2ca543778e8060d2e886bccbe8aaa666d513dd0d6808a44aec",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 103
+      },
+      {
+        "fee_in_dollars": "0.23",
+        "lowest_fee_txid": "4c1da57f44048270c03d0fdf449a2e85b6002d2b1d85f00e071a52a8b79ed593",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 138
+      },
+      {
+        "fee_in_dollars": "0.27",
+        "lowest_fee_txid": "971cfcef121921fd9c95ef8e60beb4b48fc9c628044d2fff2fc1fed8cef68cf1",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 158
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 30,
+    "usd_cents_per_bitcoin": 65486,
+    "block_hash": "0000000000000000045b9b5af738d37f6353570d5aff02c2ce45baf06fd7b9b6",
+    "block_number": 422079,
+    "block_network_arrival_date": "2016-07-24T11:35:04.000Z",
+    "mining_pool_id": null,
+    "mining_pool_name": null,
+    "minutes_since_last_block": 15
   }
 }
