@@ -1,0 +1,48 @@
+{
+  "324887": {
+    "block_full_percent": 12,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 88
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "532b895667a80c0bc07ce85f567b3b0bc48406ad3a892157c928667b661927d8",
+        "percent": 12,
+        "range": 6,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "223700bcce29e30fb619207219bf73d0222a5dd1d2b4848ed9a7cdd291944dee",
+        "percent": 6,
+        "range": 1,
+        "satoshis_per_byte_fee": 16
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "1c7779da522f1c57a8a995545c710169200067ee3f0916c1578c35f5881eb2ab",
+        "percent": 5,
+        "range": 4,
+        "satoshis_per_byte_fee": 27
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "b096ba1a217e7aee10566e7c9c101f4c3939172bb999e9203ad3b6000adcf907",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 46
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 91,
+    "usd_cents_per_bitcoin": 35869,
+    "block_hash": "000000000000000015dd72d703e7d8234c234a29bc5531888004d2293620cb3a",
+    "block_number": 324887,
+    "block_network_arrival_date": "2014-10-11T19:06:34.000Z",
+    "mining_pool_id": "megabigpower",
+    "mining_pool_name": "Megabigpower"
+  }
+}
