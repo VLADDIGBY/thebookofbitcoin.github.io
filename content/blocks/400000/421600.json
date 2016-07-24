@@ -9490,6 +9490,125 @@
     "mining_pool_name": "AntPool",
     "minutes_since_last_block": 0
   },
+  "421699": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "c51071ccbcb97f0a58805d6f6cb9969d90e59a69f43088d2aa0a8cbf1e23b695",
+        "percent": 100,
+        "range": 52,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "a3291650c9dd1365056adf8ed51e58585bebb3d7153462183faaaf208cba3a23",
+        "percent": 48,
+        "range": 3,
+        "satoshis_per_byte_fee": 61
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "985a0afc4b6a5da497c5987fcf22ed3f0a65d972f238ab659b756dc7e5c974d7",
+        "percent": 45,
+        "range": 6,
+        "satoshis_per_byte_fee": 67
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "d785c676d1a9d7d12fcc7301dfb800cec85d310fbd6e8b30333541f1c9db1b80",
+        "percent": 39,
+        "range": 2,
+        "satoshis_per_byte_fee": 73
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "1b77d6df4178e813d1f363975194c2556eb2a883c2371fb9ff4ab1aca0746974",
+        "percent": 37,
+        "range": 3,
+        "satoshis_per_byte_fee": 79
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "e1c68f7b0ca3c24b1d90fb6fae6ebd2adac4059e1990cd1bc4bb7edc38a75d61",
+        "percent": 34,
+        "range": 2,
+        "satoshis_per_byte_fee": 84
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "bfadd31d403a2aaaa8d6b16a8b93a4d6d08689379e2eadf4d3b1f25e5b4f7456",
+        "percent": 32,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      },
+      {
+        "fee_in_dollars": "0.16",
+        "lowest_fee_txid": "f7802f373226cd757e369669247da0e54896ba0fc0907123f65ea7416e93460f",
+        "percent": 31,
+        "range": 1,
+        "satoshis_per_byte_fee": 94
+      },
+      {
+        "fee_in_dollars": "0.17",
+        "lowest_fee_txid": "0f3cab791cb25853720c04471fae080c6c0b75ed52335227fc4c82854cf34f7d",
+        "percent": 30,
+        "range": 2,
+        "satoshis_per_byte_fee": 101
+      },
+      {
+        "fee_in_dollars": "0.18",
+        "lowest_fee_txid": "79c12529d35d288298b75e5616480504568584a29f2bb248b51b4d454a7228c7",
+        "percent": 28,
+        "range": 3,
+        "satoshis_per_byte_fee": 106
+      },
+      {
+        "fee_in_dollars": "0.23",
+        "lowest_fee_txid": "370478b66097b123aef89eddeb78838adf8b853aa692d633a331ef7d4c437102",
+        "percent": 25,
+        "range": 1,
+        "satoshis_per_byte_fee": 136
+      },
+      {
+        "fee_in_dollars": "0.25",
+        "lowest_fee_txid": "11695c6be7a7115c4ec63cded26b226780db9519d82dcc5018bc3e371b1e04af",
+        "percent": 24,
+        "range": 21,
+        "satoshis_per_byte_fee": 145
+      },
+      {
+        "fee_in_dollars": "0.26",
+        "lowest_fee_txid": "7a14d9abefdd32ea0a841ec6ae2fa6ab331cbd1d0d979bc8af9919e78bd33c4a",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 153
+      },
+      {
+        "fee_in_dollars": "0.38",
+        "lowest_fee_txid": "e073506ee19e9659ff4de2d0d5c349c2968e6c6d9de9e83db6b54c06d8b33237",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 223
+      },
+      {
+        "fee_in_dollars": "0.46",
+        "lowest_fee_txid": "930169dc1953973e8e75534b7b687631c04f0c1691bb57134861487feba36895",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 268
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 45,
+    "usd_cents_per_bitcoin": 66618,
+    "block_hash": "0000000000000000028a10bb6bf6981802a68817a45bebb8b5df320d01fb8f28",
+    "block_number": 421699,
+    "block_network_arrival_date": "2016-07-21T13:42:09.000Z",
+    "mining_pool_id": "slush",
+    "mining_pool_name": "Slush",
+    "minutes_since_last_block": 25
+  },
   "421715": {
     "block_full_percent": 34,
     "block_hash": "00000000000000000144c532d49fa6aa21e9b25c6ba030d75f072cbf2ebf53f1",
