@@ -13593,6 +13593,32 @@
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 9
   },
+  "421751": {
+    "block_full_percent": 1,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 98
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "fe531d881711825acf821631d35acf39ecbc4baf59ca307aaf6d91b7db2804da",
+        "percent": 2,
+        "range": 2,
+        "satoshis_per_byte_fee": 13
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 70,
+    "usd_cents_per_bitcoin": 66618,
+    "block_hash": "000000000000000002b2441a9dbbe3e3a8e79ccaabd7592d48c43d36f525c4f3",
+    "block_number": 421751,
+    "block_network_arrival_date": "2016-07-21T20:58:18.000Z",
+    "mining_pool_id": "bwpool",
+    "mining_pool_name": "BW Pool",
+    "minutes_since_last_block": 0
+  },
   "421766": {
     "block_full_percent": 100,
     "block_hash": "000000000000000004785277ae59eed66bf77cf0a321b99969132b56c9ac413b",
