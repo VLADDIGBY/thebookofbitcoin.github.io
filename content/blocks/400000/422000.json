@@ -10597,5 +10597,24 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 5
+  },
+  "422096": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 100
+      }
+    ],
+    "data_storage_percent": null,
+    "fixed_fee_percent": null,
+    "usd_cents_per_bitcoin": 65486,
+    "block_hash": "000000000000000004082394d3741e85d7c7803453abf11e4291998ea0be520a",
+    "block_number": 422096,
+    "block_network_arrival_date": "2016-07-24T15:11:41.000Z",
+    "mining_pool_id": "haobtc",
+    "mining_pool_name": "HaoBTC",
+    "minutes_since_last_block": 0
   }
 }
