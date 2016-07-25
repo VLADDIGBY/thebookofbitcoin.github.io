@@ -791,5 +791,52 @@
     "mining_pool_id": "telco214",
     "mining_pool_name": "Telco 214",
     "minutes_since_last_block": 18
+  },
+  "342133": {
+    "block_full_percent": 14,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 85
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "2e8f36e8f4aace69bb478d26c659424baa17c7c0f0199dd27ade58a3d8649699",
+        "percent": 15,
+        "range": 6,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "f73447b23f48d4eaba4c95c0274a9eb37b11bd2699f392e162cad0cf58d8695c",
+        "percent": 9,
+        "range": 5,
+        "satoshis_per_byte_fee": 26
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "269e210568acf4f1568d5f24fb1820514a355566420e22ff64abacf06d39800c",
+        "percent": 4,
+        "range": 3,
+        "satoshis_per_byte_fee": 39
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "4b197c9e6b298b8b6c928938436f5d59b14666c27b89add96cea6c8b76b6ff8d",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 57
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 93,
+    "usd_cents_per_bitcoin": 22673,
+    "block_hash": "000000000000000014d0ac3c68ce2e62319fbb9a9414e21e74c7ef22c9785631",
+    "block_number": 342133,
+    "block_network_arrival_date": "2015-02-05T21:41:16.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 8
   }
 }
