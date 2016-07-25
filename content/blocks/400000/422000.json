@@ -22196,5 +22196,24 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 6
+  },
+  "422192": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 100
+      }
+    ],
+    "data_storage_percent": null,
+    "fixed_fee_percent": null,
+    "usd_cents_per_bitcoin": 66105,
+    "block_hash": "000000000000000000bf73dbe5f600efcb58b75eb2cde33321c2ffeac7c9a7cb",
+    "block_number": 422192,
+    "block_network_arrival_date": "2016-07-25T08:31:52.000Z",
+    "mining_pool_id": "viabtc",
+    "mining_pool_name": "ViaBTC",
+    "minutes_since_last_block": 0
   }
 }
