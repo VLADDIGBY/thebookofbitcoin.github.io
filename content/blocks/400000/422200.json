@@ -4909,5 +4909,31 @@
     "mining_pool_id": "slush",
     "mining_pool_name": "Slush",
     "minutes_since_last_block": 11
+  },
+  "422254": {
+    "block_full_percent": 1,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 99
+      },
+      {
+        "fee_in_dollars": "0.20",
+        "lowest_fee_txid": "bc4435d19848536d97c956be1bb54c57d3663ae781c8078f153ca51fcec9f671",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 119
+      }
+    ],
+    "data_storage_percent": 4,
+    "fixed_fee_percent": 80,
+    "usd_cents_per_bitcoin": 66105,
+    "block_hash": "000000000000000000fb95c531a206f6d72b095f435dd67f15fc74573bb09251",
+    "block_number": 422254,
+    "block_network_arrival_date": "2016-07-25T19:33:32.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 8
   }
 }
