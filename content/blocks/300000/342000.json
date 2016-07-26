@@ -1649,5 +1649,45 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 29
+  },
+  "342152": {
+    "block_full_percent": 13,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 86
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "4d260e878a90d68a6d77883d1d8c2e66c8f693c8afdb07c4a6dabeca0a6b2f7a",
+        "percent": 14,
+        "range": 10,
+        "satoshis_per_byte_fee": 10
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "527ca5fc95442a61995ff085ce436883818dd8d5862fd8c6d4a1cdbdb2e4a0f2",
+        "percent": 4,
+        "range": 3,
+        "satoshis_per_byte_fee": 39
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "f32d3fbeb9db6b142c81872e047d95ee165e4d62533bd3618422f31165517d1a",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 53
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 95,
+    "usd_cents_per_bitcoin": 22673,
+    "block_hash": "00000000000000000c9dc8da34c355a308189670b1419007ddb74637e06043cf",
+    "block_number": 342152,
+    "block_network_arrival_date": "2015-02-06T00:11:58.000Z",
+    "mining_pool_id": "eligius",
+    "mining_pool_name": "Eligius",
+    "minutes_since_last_block": 5
   }
 }
