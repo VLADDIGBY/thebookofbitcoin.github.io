@@ -2131,5 +2131,38 @@
     "mining_pool_id": "ghashio",
     "mining_pool_name": "GHash.IO",
     "minutes_since_last_block": 22
+  },
+  "342163": {
+    "block_full_percent": 5,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 95
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "bcdb3e697c0680a705c396b675e2b0378e73d2311fba1a709c74393503665002",
+        "percent": 5,
+        "range": 4,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "0219d046aceba93ee4b6f4fb557a7bba49565127866ec6d760534f64988ff85c",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 27
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 97,
+    "usd_cents_per_bitcoin": 21677,
+    "block_hash": "00000000000000000151addecf3e6eb88d2b7b0c6be4eb7e4889bf2a6ad4bc97",
+    "block_number": 342163,
+    "block_network_arrival_date": "2015-02-06T01:29:42.000Z",
+    "mining_pool_id": "discusfish",
+    "mining_pool_name": "DiscusFish / F2Pool",
+    "minutes_since_last_block": 1
   }
 }
