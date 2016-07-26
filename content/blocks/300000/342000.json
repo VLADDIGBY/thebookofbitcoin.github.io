@@ -2004,5 +2004,45 @@
     "mining_pool_id": "ghashio",
     "mining_pool_name": "GHash.IO",
     "minutes_since_last_block": 20
+  },
+  "342160": {
+    "block_full_percent": 18,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 81
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "cbc12371eda63e5ff11842c9efb70b73d9fe024e652863e10e91684c56a6ad1a",
+        "percent": 19,
+        "range": 15,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "57c58f163fb8090353ff186e6e4925bef7b49959bb20eca87bdfde54d4bbd344",
+        "percent": 4,
+        "range": 3,
+        "satoshis_per_byte_fee": 27
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "c607efdbc34ac1f8e4f5301f6946f6a1a46bee07bb71a643f153f3b02dc02ef8",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 44
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 86,
+    "usd_cents_per_bitcoin": 21677,
+    "block_hash": "000000000000000010bd6876811f670a6011e130348fd186e4241954142a517c",
+    "block_number": 342160,
+    "block_network_arrival_date": "2015-02-06T01:06:04.000Z",
+    "mining_pool_id": "bitfury",
+    "mining_pool_name": "Bitfury",
+    "minutes_since_last_block": 4
   }
 }
