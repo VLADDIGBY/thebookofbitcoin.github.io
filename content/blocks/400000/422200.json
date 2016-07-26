@@ -7684,5 +7684,73 @@
     "mining_pool_id": null,
     "mining_pool_name": null,
     "minutes_since_last_block": 18
+  },
+  "422278": {
+    "block_full_percent": 33,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 67
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "db3cc42ded032e2128d0db093f5b095a0dc665a7aafe612a7d7aa093090c0cf9",
+        "percent": 33,
+        "range": 25,
+        "satoshis_per_byte_fee": 20
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "7325b4b2b29c51daac5f90366b9ae62fdf85aa195bae5c2b15824af171e29dd4",
+        "percent": 8,
+        "range": 2,
+        "satoshis_per_byte_fee": 26
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "98d02f11745d6d9d3331ef8980e56327031ef5ba229428149b837f4c2e520da2",
+        "percent": 6,
+        "range": 1,
+        "satoshis_per_byte_fee": 30
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "b53881f4250341abc219afc74ee7aa3326760379eccf1be2d48ceb44a356ec17",
+        "percent": 5,
+        "range": 2,
+        "satoshis_per_byte_fee": 44
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "895b8a8bab5625634fbebdfc6f31090f0821c9caba806aa81f6bf14d881e6329",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 55
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "4b5675d6ab4e63e61b3ded6e2a91117b7862fdd469b620eaa173929c3e6130bf",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 61
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "cb616d766e31139cce76219ae0ecb7b4175ee340d5d538f641b244d70a0bb692",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 66
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 38,
+    "usd_cents_per_bitcoin": 66105,
+    "block_hash": "0000000000000000005d28e6e461936ff4d3747c4f500b6af667041bc57869e6",
+    "block_number": 422278,
+    "block_network_arrival_date": "2016-07-26T00:45:59.000Z",
+    "mining_pool_id": "bwpool",
+    "mining_pool_name": "BW Pool",
+    "minutes_since_last_block": 1
   }
 }
