@@ -1790,5 +1790,45 @@
     "mining_pool_id": "btcguild",
     "mining_pool_name": "BTC Guild",
     "minutes_since_last_block": 13
+  },
+  "342155": {
+    "block_full_percent": 3,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 97
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "6d8e41f1ff8b153456bfbc88e8d2cbdb08d7aa3451a81db8b560757253aaf5e7",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "2e9806af8c60067437ef7aec870e7a2447ce8e7523ff2be6166651a9e0a57cbf",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "e3c5190739e1841a669a46d53c9bc60a87dd7d437ac3efdc55d26b3f2ef965c5",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 41
+      }
+    ],
+    "data_storage_percent": 2,
+    "fixed_fee_percent": 97,
+    "usd_cents_per_bitcoin": 22673,
+    "block_hash": "00000000000000001a66dac3071866aeac34861e015a963d20c840dfa2f8ec7f",
+    "block_number": 342155,
+    "block_network_arrival_date": "2015-02-06T00:29:29.000Z",
+    "mining_pool_id": "eligius",
+    "mining_pool_name": "Eligius",
+    "minutes_since_last_block": 1
   }
 }
