@@ -2726,5 +2726,45 @@
     "mining_pool_id": "tangpool",
     "mining_pool_name": "TangPool",
     "minutes_since_last_block": 10
+  },
+  "342177": {
+    "block_full_percent": 5,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 94
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "cfa6699134f35198126cdce35cf9dbdb424377bd6ae87e742387c102a0f697e6",
+        "percent": 6,
+        "range": 4,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "ccf5f89c3c6f4e8cc9ccd4dd413d8e0cea15476d4e7471201faf7844a78b91f2",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 27
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "f200106eb73aebd3df72674ec3515aebb03f7e763b7c1a6f3f8365dab3c9cbc3",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 45
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 94,
+    "usd_cents_per_bitcoin": 21677,
+    "block_hash": "0000000000000000076e322ba5a306aa73d56cf1f0639d8e4911e2abec636224",
+    "block_number": 342177,
+    "block_network_arrival_date": "2015-02-06T03:02:27.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 1
   }
 }
