@@ -16624,5 +16624,24 @@
     "mining_pool_id": "telco214",
     "mining_pool_name": "Telco 214",
     "minutes_since_last_block": 7
+  },
+  "422371": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 100
+      }
+    ],
+    "data_storage_percent": null,
+    "fixed_fee_percent": null,
+    "usd_cents_per_bitcoin": 65514,
+    "block_hash": "0000000000000000027a4c9b5fc32df6c960ee8e8b4eeb56394b22cc10f7a5e1",
+    "block_number": 422371,
+    "block_network_arrival_date": "2016-07-26T17:55:29.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 0
   }
 }
