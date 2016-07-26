@@ -1689,5 +1689,52 @@
     "mining_pool_id": "eligius",
     "mining_pool_name": "Eligius",
     "minutes_since_last_block": 5
+  },
+  "342153": {
+    "block_full_percent": 9,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 91
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "b838663f10cefae4318bf9c69c26e6f2e0616be1254fc983ec1f92ec55299cc6",
+        "percent": 9,
+        "range": 4,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "d25cba3b72c8a75f688febdae97a5e715a0f87f58735042ead321050c955845b",
+        "percent": 5,
+        "range": 2,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "45716ab337bdfcde3019fb18abc4f813eba949b20eb0163f22014c7b633832a5",
+        "percent": 3,
+        "range": 2,
+        "satoshis_per_byte_fee": 40
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "117bc4c137767540b3e7e50dc867559ae6f77b882f4193599359b8d4840c267c",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 54
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 93,
+    "usd_cents_per_bitcoin": 22673,
+    "block_hash": "00000000000000000593acefd46ae51549dc2b451ab28c30dcec13c6e7797ef4",
+    "block_number": 342153,
+    "block_network_arrival_date": "2015-02-06T00:15:55.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 4
   }
 }
