@@ -1950,5 +1950,59 @@
     "mining_pool_id": "tangpool",
     "mining_pool_name": "TangPool",
     "minutes_since_last_block": 7
+  },
+  "342159": {
+    "block_full_percent": 35,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 65
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "04b3caf4baf90e08eec4ccb30c1ca82ff655568d881dd56169f3550ef160c288",
+        "percent": 35,
+        "range": 21,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "38eb7612becf294b5d696f0f63fe599823b3b7204e543d7d5ac292decbcf54d5",
+        "percent": 14,
+        "range": 11,
+        "satoshis_per_byte_fee": 27
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "403210937889c3e95a94f0540bb9b5b94c943870d32e492bfaa4f711888cfc38",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 45
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "718f53daf4df9c302c7cf33067090956454c988f2f4671bba62bcb9284dd8b7d",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 61
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "416ee3cae14d5559d5b46889d953f5514cf01bc29276f9a919ee28d47c21e3ee",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 78
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 92,
+    "usd_cents_per_bitcoin": 21677,
+    "block_hash": "00000000000000001738a035fd4ab939ea19d3f268b2d427fde5ee10390d3d5e",
+    "block_number": 342159,
+    "block_network_arrival_date": "2015-02-06T01:02:30.000Z",
+    "mining_pool_id": "ghashio",
+    "mining_pool_name": "GHash.IO",
+    "minutes_since_last_block": 20
   }
 }
