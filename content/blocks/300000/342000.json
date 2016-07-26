@@ -2599,5 +2599,45 @@
     "mining_pool_id": "bitfury",
     "mining_pool_name": "Bitfury",
     "minutes_since_last_block": 1
+  },
+  "342174": {
+    "block_full_percent": 12,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 88
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "b7cb5711f3db2d9dfc7badfaf852d0542859f94e9a2e19bc66ab45bbd3b380b6",
+        "percent": 12,
+        "range": 10,
+        "satoshis_per_byte_fee": 10
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "a08a78496e28b01613eeef04c18480eb4febc1c9e0d60c2fa533a0b23fabc209",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 45
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "b60e3a0307cb986b7b20161d8419766632e476fd17c644c90040d6bbebbd4b8d",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 54
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 96,
+    "usd_cents_per_bitcoin": 21677,
+    "block_hash": "0000000000000000031f01bf1dd70469ad3bfb326206fbd4179ae9cf4572e2f8",
+    "block_number": 342174,
+    "block_network_arrival_date": "2015-02-06T02:46:10.000Z",
+    "mining_pool_id": "btcguild",
+    "mining_pool_name": "BTC Guild",
+    "minutes_since_last_block": 4
   }
 }
