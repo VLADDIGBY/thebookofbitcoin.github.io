@@ -1595,5 +1595,59 @@
     "mining_pool_id": "btcguild",
     "mining_pool_name": "BTC Guild",
     "minutes_since_last_block": 9
+  },
+  "342151": {
+    "block_full_percent": 85,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 15
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "205068890913c36dd918375443855e0dd7f1ea774b49c583b1557ff2dfbc49f9",
+        "percent": 85,
+        "range": 60,
+        "satoshis_per_byte_fee": 1
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "291e7a93063189defb23ff0e697e8000b473670d5ab33028012028431550821f",
+        "percent": 25,
+        "range": 10,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "b88f78b066b7bfbefe7cc0ae5c72cb92d0be652d74762ef1260c3874a800b8ee",
+        "percent": 15,
+        "range": 12,
+        "satoshis_per_byte_fee": 41
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "08f205e82bca0bf0d0ee74cd2e95cb10a815fdd1cc886df95866e7d5f5ba236e",
+        "percent": 3,
+        "range": 2,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "9084b524534d64fa21b8acb428f2682d2daa06d96f5989f9e043aed2cd62e366",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 86,
+    "usd_cents_per_bitcoin": 22673,
+    "block_hash": "000000000000000009d81d26c19c48031fbd287797419dc2430efa9c19a950f4",
+    "block_number": 342151,
+    "block_network_arrival_date": "2015-02-06T00:07:03.000Z",
+    "mining_pool_id": "discusfish",
+    "mining_pool_name": "DiscusFish / F2Pool",
+    "minutes_since_last_block": 29
   }
 }
