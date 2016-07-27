@@ -2867,5 +2867,45 @@
     "mining_pool_id": "bitfury",
     "mining_pool_name": "Bitfury",
     "minutes_since_last_block": 10
+  },
+  "359166": {
+    "block_full_percent": 13,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 87
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "7ee2b59c4d3fe5e7b0ca358f241be144a980682fef6e1271fe70a21eba0af060",
+        "percent": 13,
+        "range": 10,
+        "satoshis_per_byte_fee": 10
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "a9530d44991e42f5961236fd9255f4e409fd99d81a75db1b2eaebf19e10aff35",
+        "percent": 3,
+        "range": 2,
+        "satoshis_per_byte_fee": 39
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "d1b8264e381dc27d4261033d1a72a2ad8ccdd8b47b69e3a3f12978d1a9848322",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 55
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 87,
+    "usd_cents_per_bitcoin": 22331,
+    "block_hash": "0000000000000000141acb8cdc73096bec356363a7408e5cf6afae9dea3c5cc7",
+    "block_number": 359166,
+    "block_network_arrival_date": "2015-06-03T00:41:13.000Z",
+    "mining_pool_id": "bitaffnet",
+    "mining_pool_name": "BitAffNet",
+    "minutes_since_last_block": 3
   }
 }
