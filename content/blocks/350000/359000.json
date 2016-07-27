@@ -1181,5 +1181,45 @@
     "mining_pool_id": "huobi",
     "mining_pool_name": "Avalon + Huobi",
     "minutes_since_last_block": 23
+  },
+  "359132": {
+    "block_full_percent": 28,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 71
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "4279dd11f0d15094e6bfc3eb231b2e8bf3753746916fe5d6efcdc0c6f41473a7",
+        "percent": 29,
+        "range": 23,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "abb302b1505f76c6d88fc77875e5f3bffc186b4a99afd33011b7419bf8dc354f",
+        "percent": 6,
+        "range": 5,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "5f4326214f566de504c618fee3d1cf3fb25029aa88f7f74da88a405f4a8def87",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 39
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 41,
+    "usd_cents_per_bitcoin": 22331,
+    "block_hash": "00000000000000000d1235051dedb0202d8e0f4bd14ea014f5b64b54c7ab0a7c",
+    "block_number": 359132,
+    "block_network_arrival_date": "2015-06-02T19:12:14.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 0
   }
 }
