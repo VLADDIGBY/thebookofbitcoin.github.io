@@ -1777,5 +1777,66 @@
     "mining_pool_id": "unknown-1Ar2gRkt1u6k4PToe",
     "mining_pool_name": "Unknown Entity",
     "minutes_since_last_block": 28
+  },
+  "359144": {
+    "block_full_percent": 75,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 25
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "980d5f3f2a8a0dc601aacc64684b2c587d18dda2aa72f97b2acdfd17ac2e2bca",
+        "percent": 75,
+        "range": 44,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "b41e09bf7b117eeee6c47967a176220d5d4f59a6528edc415c9a63b7996ccfe9",
+        "percent": 31,
+        "range": 17,
+        "satoshis_per_byte_fee": 26
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "a4c2fec4335f1a3029034ae6395398e2438a38af35fcc738163440628727d9ae",
+        "percent": 14,
+        "range": 11,
+        "satoshis_per_byte_fee": 39
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "355d2aa3885a0636a5b0c9e86d952231dcd6b15c0fcb4839eea370a013522906",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 60
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "9ee3228111ecb1daed4f5ceee7a9feb754fbbe8e735c209aae75528dfa368f72",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 78
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "1a3d0dc0b5560f94c96ae81e0a067b8dbcc24c84b4de29b290f638cb5354b212",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 72,
+    "usd_cents_per_bitcoin": 22331,
+    "block_hash": "000000000000000005090422045833e921e7e69b0f8a66d9043d64de90c29ef0",
+    "block_number": 359144,
+    "block_network_arrival_date": "2015-06-02T21:20:23.000Z",
+    "mining_pool_id": "21inc",
+    "mining_pool_name": "21 Inc.",
+    "minutes_since_last_block": 0
   }
 }
