@@ -3863,5 +3863,45 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 11
+  },
+  "359186": {
+    "block_full_percent": 6,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 93
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "e76de091940445bd1f46e068ae8051478c0cdc761b3824f7a7bef4b31db1cb33",
+        "percent": 7,
+        "range": 5,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "a058c1026889a88597f964718851b6e7aa1271a003275800e2f38708898ecce3",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "91be9560e273cd9d438dfa35cf285776b311f99f590f0f12913accc9ae55b574",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 39
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 92,
+    "usd_cents_per_bitcoin": 22575,
+    "block_hash": "00000000000000000d5f1b7c65e59aa4aa7529a5f5c178e2b3a5044fbc5dd58d",
+    "block_number": 359186,
+    "block_network_arrival_date": "2015-06-03T04:14:35.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 1
   }
 }
