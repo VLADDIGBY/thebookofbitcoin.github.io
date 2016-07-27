@@ -212,5 +212,52 @@
     "mining_pool_id": "eclipsemc",
     "mining_pool_name": "EclipseMC",
     "minutes_since_last_block": 0
+  },
+  "359114": {
+    "block_full_percent": 19,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 80
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "9b9c77ac39dd461dd33c4dc216384f8bbdbb3b556bb5cfe6ade6a7de51b424b3",
+        "percent": 20,
+        "range": 13,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "2eb1a73cfcd1c00b6435e5988a6fdc91ddc13ca6e10cf15dbf8b1844aa3ea6a6",
+        "percent": 7,
+        "range": 3,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "bd74246b6acbdbba62891343df58617634b064d2fa91c510e57244a17dd00f01",
+        "percent": 4,
+        "range": 3,
+        "satoshis_per_byte_fee": 39
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "afa2e6fe73dcb98522878a482f53add51b1b29db763f3dd0f4ba0ad3c24651de",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 59
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 87,
+    "usd_cents_per_bitcoin": 22331,
+    "block_hash": "000000000000000007e00528a8d005f9e0b9b0896d1cec0c4b810cc8e553f6d6",
+    "block_number": 359114,
+    "block_network_arrival_date": "2015-06-02T16:12:21.000Z",
+    "mining_pool_id": "unknown-17JJ3oZyF4ShQMGuk",
+    "mining_pool_name": "Unknown Entity",
+    "minutes_since_last_block": 3
   }
 }
