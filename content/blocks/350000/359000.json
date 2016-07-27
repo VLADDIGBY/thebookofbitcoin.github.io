@@ -2491,5 +2491,31 @@
     "mining_pool_id": "21inc",
     "mining_pool_name": "21 Inc.",
     "minutes_since_last_block": 7
+  },
+  "359158": {
+    "block_full_percent": 1,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 98
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "eae7dcac9846bd8ee7de3fddf88933fa00b80ba7de1c5841bdc4c5146236ac12",
+        "percent": 2,
+        "range": 2,
+        "satoshis_per_byte_fee": 0
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 94,
+    "usd_cents_per_bitcoin": 22331,
+    "block_hash": "000000000000000007b90e5ec35b1b106e4426a3ded7d0ed63bb07f00c41a7b5",
+    "block_number": 359158,
+    "block_network_arrival_date": "2015-06-02T23:15:38.000Z",
+    "mining_pool_id": "slush",
+    "mining_pool_name": "Slush",
+    "minutes_since_last_block": 1
   }
 }
