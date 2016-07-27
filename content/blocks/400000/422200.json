@@ -19055,5 +19055,124 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 4
+  },
+  "422393": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "a8d362d4db582b21ca670d0f24b1f7a5285d546e0d58681dacb3a36c8d3306fe",
+        "percent": 100,
+        "range": 9,
+        "satoshis_per_byte_fee": 30
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "c958316133260dd1295e616c0064dbcfb6eaa63059fcb5e5810c714a0bc43936",
+        "percent": 91,
+        "range": 9,
+        "satoshis_per_byte_fee": 38
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "9c57b9cb4244230c6b8285fc98a334c52d3adceb907060a1c1904ff76dd60006",
+        "percent": 82,
+        "range": 11,
+        "satoshis_per_byte_fee": 44
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "25322c34fadcac8ad658f68b5e221216ba68bb6e93bef90885a9b94192ddc49a",
+        "percent": 71,
+        "range": 15,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "5ccc1e2e1656751d583bda49b29e954d466638c16677b4df6bf1ed300c2c0efe",
+        "percent": 56,
+        "range": 9,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "8285458154219a4410e29f17c3a174dd9c45586e4573f3878382a653dd04b591",
+        "percent": 47,
+        "range": 15,
+        "satoshis_per_byte_fee": 62
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "6ee3e4723ffb7f92b0e0c795654860acf6d6fbd04b9eec3c58e0dac0a37dc2a5",
+        "percent": 32,
+        "range": 11,
+        "satoshis_per_byte_fee": 68
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "2db7ad592fa043c669faca9483c7c185cc53b166b9c2799fb634f775d4cc87d3",
+        "percent": 21,
+        "range": 8,
+        "satoshis_per_byte_fee": 80
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "032afa19594622c99b9ea54612d4dcbba5b1dfa9b48883ccd63d08856b6c55dd",
+        "percent": 13,
+        "range": 1,
+        "satoshis_per_byte_fee": 86
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "8687ffd22038fb58124befa54dd60b3737f76f62e012192cff45444c124cebed",
+        "percent": 12,
+        "range": 1,
+        "satoshis_per_byte_fee": 92
+      },
+      {
+        "fee_in_dollars": "0.16",
+        "lowest_fee_txid": "ef602e73121b6c8b261bc89b8c37a49d86748ae53ee7a9d9de00b30b7d226132",
+        "percent": 11,
+        "range": 1,
+        "satoshis_per_byte_fee": 97
+      },
+      {
+        "fee_in_dollars": "0.17",
+        "lowest_fee_txid": "20b5be8dbb3393acdfb2eaad557fe4316b8aa95e277961155e317dfa376e5d80",
+        "percent": 10,
+        "range": 1,
+        "satoshis_per_byte_fee": 103
+      },
+      {
+        "fee_in_dollars": "0.19",
+        "lowest_fee_txid": "5501467b1840f0f7842a2057d93f96d8ea71ffa47895f528e8d5b0c8a4734eda",
+        "percent": 9,
+        "range": 1,
+        "satoshis_per_byte_fee": 115
+      },
+      {
+        "fee_in_dollars": "0.22",
+        "lowest_fee_txid": "312d7f2720d4bd106a1b484850568f31656f435f8f3ad8911c07f64abf867119",
+        "percent": 8,
+        "range": 7,
+        "satoshis_per_byte_fee": 133
+      },
+      {
+        "fee_in_dollars": "0.25",
+        "lowest_fee_txid": "ad68ba86a7ed84cb9ee5431aaa3b81170d9a452163cead40d7b2e7cf16369241",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 151
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 27,
+    "usd_cents_per_bitcoin": 65514,
+    "block_hash": "0000000000000000041cd2652e3aa6ff15b41edad66e600b9e4d6a00fe81d0d4",
+    "block_number": 422393,
+    "block_network_arrival_date": "2016-07-26T21:40:33.000Z",
+    "mining_pool_id": "discusfish",
+    "mining_pool_name": "DiscusFish / F2Pool",
+    "minutes_since_last_block": 16
   }
 }
