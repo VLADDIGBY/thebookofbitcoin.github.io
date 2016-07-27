@@ -18085,5 +18085,31 @@
     "mining_pool_id": "btcc",
     "mining_pool_name": "BTCC",
     "minutes_since_last_block": 4
+  },
+  "422384": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 99
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "f34f7acd2ca534c9849a4ea7707e155f65b5e814e151718af6f8395ce94770ad",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 55
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 60,
+    "usd_cents_per_bitcoin": 65514,
+    "block_hash": "00000000000000000101cc5072bd523b036feb4f8315887b65fe43b0bd3d3b05",
+    "block_number": 422384,
+    "block_network_arrival_date": "2016-07-26T19:59:17.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 1
   }
 }
