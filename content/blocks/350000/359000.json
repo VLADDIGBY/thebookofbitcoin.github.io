@@ -360,5 +360,66 @@
     "mining_pool_id": "unknown-17JJ3oZyF4ShQMGuk",
     "mining_pool_name": "Unknown Entity",
     "minutes_since_last_block": 5
+  },
+  "359117": {
+    "block_full_percent": 75,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 25
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "e0fb4049e62ecb93c28fc5dff0a36f2e75a2a9270d74a5cf1f51da1c88b6429d",
+        "percent": 75,
+        "range": 41,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "dc4e5ee152a410593e0547e4e908c5f6db1d63a86d3ead204d29bed036c82f08",
+        "percent": 34,
+        "range": 18,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "97002eadd73fa96b0af2c00e75226484ee7f64f9d074fbf050b8c6e775b20ade",
+        "percent": 16,
+        "range": 13,
+        "satoshis_per_byte_fee": 43
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "7c2f73af8b6038f1ded6bb062f2656a282f96672054a91d280ec470f6b9c3084",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 60
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "4fa0d29723115514384d896ed1b92fc1d3011e033949e66002d9f91701c9932b",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 78
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "ecbc18d366dc79417b81ffc5fe9c50aa274f4c014db1c21e07f69c8ea4caf440",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 89
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 78,
+    "usd_cents_per_bitcoin": 22331,
+    "block_hash": "00000000000000000eb8084f611669528131f4c84b16188d88b1407293a305bf",
+    "block_number": 359117,
+    "block_network_arrival_date": "2015-06-02T16:43:42.000Z",
+    "mining_pool_id": "slush",
+    "mining_pool_name": "Slush",
+    "minutes_since_last_block": 11
   }
 }
