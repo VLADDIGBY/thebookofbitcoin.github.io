@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Book of Bitcoin</title>
+    <link href="../../../css/blocks.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h1><span>Block Atlas </span><small>Space used in blocks by standard transaction normalized fees</small></h1>
+      <div class="well well-sm">Horizontal: percent of space used by fee level. Vertical: fee bid level depth. Fees represent median transaction size total cost.</div>
+    </div>
+    <div class="container" id="blocks">
+      <div class="block row" id="359090">
+        <h3><a class="label label-default" data-toggle="tooltip" href="#359090" title="Mined by BW Pool">Block 359090</a>
+          <div class="label label-danger">75% Full</div>
+          <div class="label label-warning" data-toggle="tooltip" title="Fees with only one unique digit">86% Static Fee</div>
+        </h3>
+        <div class="chunk empty" style="background:hsl(37, 100%, 100%);height:20px;width:25%"><span class="fee">$0.00</span>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 87.5%);height:40px;width:41%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/8904716a8ff0222c2e9432b2758ed9fa3536dab6a2a3e82abcb79b2d25818205" target="_blank" title="0 Satoshis/Byte - 410kB">$0.00</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 67%);height:60px;width:17%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/3022fd8b5cfbc13af86aa5635419b67975cd501a7c0f5cfc2db64ac773ccdc38" target="_blank" title="26 Satoshis/Byte - 170kB">$0.01</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 58.5%);height:80px;width:13%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/659a8d0756f1b12f217af665d08f8c58b32ff31cdc01d10570472d4f2bded696" target="_blank" title="43 Satoshis/Byte - 130kB">$0.02</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 52%);height:100px;width:1%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/7336e3aea8b131061bdd02938f105a4f6e3b2dd6e6d60d086c43d718d2892463" target="_blank" title="59 Satoshis/Byte - 10kB">$0.03</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 51.5%);height:120px;width:1%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/606b58c990f07bbc1686a2b95570edaf6e13eb5b636d64caf113f6415a821eb0" target="_blank" title="78 Satoshis/Byte - 10kB">$0.04</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 51%);height:140px;width:1%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/91e63cd6bbd4063de5c7ceb69ff30ae4b905eb1e6d671da98e60e585f56ac35c" target="_blank" title="90 Satoshis/Byte - 10kB">$0.05</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 50.5%);height:160px;width:1%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/78ddb05bf669e8e9dc6097f60dfd6367accd4e3a64ddbdcea987156a8c395370" target="_blank" title="222 Satoshis/Byte - 10kB">$0.13</a>
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script type="text/javascript">$("[data-toggle=\"tooltip\"]").tooltip();</script>
+  </body>
+</html>
