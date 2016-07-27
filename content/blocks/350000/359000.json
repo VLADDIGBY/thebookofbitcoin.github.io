@@ -1221,5 +1221,68 @@
     "mining_pool_id": "btcc",
     "mining_pool_name": "BTCC",
     "minutes_since_last_block": 0
+  },
+  "359133": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "7763d8042ffaa01d642096b666ecb72e68dc8b8d405cc28cd840f4ee1aeba0fd",
+        "percent": 100,
+        "range": 72,
+        "satoshis_per_byte_fee": 10
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "9af01136326812198ff0b87e3e9e70de4ff1d34809c3c083716a9223a87bb488",
+        "percent": 28,
+        "range": 23,
+        "satoshis_per_byte_fee": 43
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "dcacdf54c86c5565fb3f810a6d41762ef287c6e1985b97c3615275ba393e3cce",
+        "percent": 5,
+        "range": 1,
+        "satoshis_per_byte_fee": 60
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "8da6c84ffa603ef9620ad3ca3000df3d472a8e56ad194539bb1f260a709c9769",
+        "percent": 4,
+        "range": 1,
+        "satoshis_per_byte_fee": 78
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "dd5ededead10546fd7651d89a4ce5251730fed26a4ee260cc36b36e9afbd0bb1",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 94
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "0fe1aeece0d86e9dcf371772e303f2ebb982344dd2d96fc4cd9dc21fa067639d",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 104
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "eae7063a836467bb953edcc0d8b05d7cb0102b9015afdcf0eb13cb1bf463b18e",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 222
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 90,
+    "usd_cents_per_bitcoin": 22331,
+    "block_hash": "0000000000000000089d779cfff833ba58f7e867ef539643e351b00268993f83",
+    "block_number": 359133,
+    "block_network_arrival_date": "2015-06-02T19:40:45.000Z",
+    "mining_pool_id": "discusfish",
+    "mining_pool_name": "DiscusFish / F2Pool",
+    "minutes_since_last_block": 29
   }
 }
