@@ -17713,5 +17713,127 @@
     "mining_pool_id": null,
     "mining_pool_name": null,
     "minutes_since_last_block": 21
+  },
+  "422573": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "bfecbad0fc4afc6f73f75fbedf40b306ef8000b47f3960038a287285b09a4cde",
+        "percent": 100,
+        "range": 20,
+        "satoshis_per_byte_fee": 10
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "09e214c1ba36045715cfae21a3198d014855a41d2e51449f50a6d5fa48f9bc95",
+        "percent": 80,
+        "range": 12,
+        "satoshis_per_byte_fee": 44
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "ccffdf400cbc4d19257279684e53aebb98d97377e27ee67d866013c0a78d89b2",
+        "percent": 68,
+        "range": 31,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "ac7e71726ba79f809efbb1501484255e4685945b1a5f030c8f8a6c17d18d294b",
+        "percent": 37,
+        "range": 4,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "1f202697f6d4a041e4855cd23c3d65ae9e5347f8586c122e8793b1eec6099dd2",
+        "percent": 33,
+        "range": 4,
+        "satoshis_per_byte_fee": 62
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "d98ea3337d1c0b40d71e1d3343dda86db4bb8e60d0dfbd224f2eb15c517fbdcc",
+        "percent": 29,
+        "range": 10,
+        "satoshis_per_byte_fee": 67
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "162f6ae0a9ebb2afe8d6c4f5559a9ba3531cecee6988a992f8c8115c4492db6c",
+        "percent": 19,
+        "range": 2,
+        "satoshis_per_byte_fee": 73
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "f03f7bccc94e5b0f4eb92724457ed53448e701826cdbd7d0109b30a8e6f644ab",
+        "percent": 17,
+        "range": 1,
+        "satoshis_per_byte_fee": 79
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "9c2c2fd421062f6b3de5fb413ebf0597542d2375ceb10e61e3466b4af10c5b7e",
+        "percent": 16,
+        "range": 1,
+        "satoshis_per_byte_fee": 86
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "67353ec608b4a389cedae840ec3168de0a5b1cd440706a0c1252904f5adb96b6",
+        "percent": 15,
+        "range": 2,
+        "satoshis_per_byte_fee": 91
+      },
+      {
+        "fee_in_dollars": "0.17",
+        "lowest_fee_txid": "52aa5232fac4684bb70fd8abeaf67ff3fdad70e51ec453f2e01c4c211d28a404",
+        "percent": 13,
+        "range": 1,
+        "satoshis_per_byte_fee": 103
+      },
+      {
+        "fee_in_dollars": "0.18",
+        "lowest_fee_txid": "f547c98283e86149affc96373f499b4f8fff53a6eead10e6d758af1341d38356",
+        "percent": 12,
+        "range": 1,
+        "satoshis_per_byte_fee": 109
+      },
+      {
+        "fee_in_dollars": "0.23",
+        "lowest_fee_txid": "f9451292c92c72be8aa1bcf3331806b12e356b2f218cc110b0e63ccdd68387cb",
+        "percent": 11,
+        "range": 6,
+        "satoshis_per_byte_fee": 138
+      },
+      {
+        "fee_in_dollars": "0.25",
+        "lowest_fee_txid": "3843e487d221181a5d007aa2c1b0e6a22be341196a5dfc8a37699b048ecc75ae",
+        "percent": 5,
+        "range": 1,
+        "satoshis_per_byte_fee": 151
+      },
+      {
+        "fee_in_dollars": "0.34",
+        "lowest_fee_txid": "9b6fdb49cb52e1b4a8213093396ad6cce2fffbc9d4f2a9d9e8d332b66627570c",
+        "percent": 4,
+        "range": 3,
+        "satoshis_per_byte_fee": 201
+      },
+      {
+        "fee_in_dollars": "0.45",
+        "lowest_fee_txid": "bd0d5d5e6745c75219693c9d76291edb61892eeaade76e0d1562359f0155cb21",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 268
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 31,
+    "usd_cents_per_bitcoin": 65544,
+    "block_hash": "000000000000000001c3c2bd494bd752d172ae18aecc4c534219c4b45013da9a",
+    "block_number": 422573
   }
 }
