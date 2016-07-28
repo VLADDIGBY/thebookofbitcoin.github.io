@@ -3897,5 +3897,103 @@
     "mining_pool_id": "bitfury",
     "mining_pool_name": "Bitfury",
     "minutes_since_last_block": 1
+  },
+  "422633": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "c5cf2a609a11d212cf77126ce601339235c6350b188e17cd09ee4df0adb6ad3d",
+        "percent": 100,
+        "range": 3,
+        "satoshis_per_byte_fee": 4
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "43ecaab7094380bdbef3ec078a61bf12f5a2090ed0dc51422b93a966e09997ee",
+        "percent": 97,
+        "range": 12,
+        "satoshis_per_byte_fee": 33
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "28504b39e3e0f565efd27ce78754ad297ea0517143d43743803047f1a86f2c5d",
+        "percent": 85,
+        "range": 41,
+        "satoshis_per_byte_fee": 38
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "b8779d5cf999147206e1c61b9df916a11b63f4ad275defb4642627c496d70c6d",
+        "percent": 44,
+        "range": 22,
+        "satoshis_per_byte_fee": 44
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "78761658227ad98faf57b04f6613b9468c431c5adafd02a00dece79574cb8141",
+        "percent": 22,
+        "range": 8,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "52dfc1520de23a9e673ae32f7c9cd43af3d8aef41e2c03126011cb9923a58fda",
+        "percent": 14,
+        "range": 2,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "77dc8430c7204e1d3d0e1e61a1c1e50afef0afac146e3789f1f0a2f9e3f27a5e",
+        "percent": 12,
+        "range": 1,
+        "satoshis_per_byte_fee": 62
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "6f06e05a3e4fd3cf750d02dbecf54c3b907d00de6b5f623efe0a6c5292a4a6b4",
+        "percent": 11,
+        "range": 1,
+        "satoshis_per_byte_fee": 67
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "ee4bda97fe24cfbd11e36767d346e496d93935dc60d66f268dc97f39198f66f7",
+        "percent": 10,
+        "range": 1,
+        "satoshis_per_byte_fee": 79
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "269f4870f4e00c47ea4e1a55779a48b7981993c5420d28885ebfe44983b59ec2",
+        "percent": 9,
+        "range": 1,
+        "satoshis_per_byte_fee": 84
+      },
+      {
+        "fee_in_dollars": "0.22",
+        "lowest_fee_txid": "d87ed5ecc6cff5c17e5b6178e3559a055033ae708806f629ab49ff135b53ae78",
+        "percent": 8,
+        "range": 7,
+        "satoshis_per_byte_fee": 133
+      },
+      {
+        "fee_in_dollars": "0.25",
+        "lowest_fee_txid": "9f7af3ef148f814b36dd9ee37c922907086b71788399ada37da026ea69bc650d",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 151
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 36,
+    "usd_cents_per_bitcoin": 65544,
+    "block_hash": "00000000000000000388ecb29cc17798e4328ef3f814087f6f252c146935330a",
+    "block_number": 422633,
+    "block_network_arrival_date": "2016-07-28T17:46:08.000Z",
+    "mining_pool_id": "bitclubnetwork",
+    "mining_pool_name": "BitClub Network",
+    "minutes_since_last_block": 1
   }
 }
