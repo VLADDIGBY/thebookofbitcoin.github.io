@@ -3486,5 +3486,66 @@
     "mining_pool_id": "ghashio",
     "mining_pool_name": "GHash.IO",
     "minutes_since_last_block": 4
+  },
+  "422629": {
+    "block_full_percent": 95,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 4
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "50ee4b5468ec76842a0a6153c9e1d55320d2b97d8038edeca080948793204022",
+        "percent": 96,
+        "range": 90,
+        "satoshis_per_byte_fee": 5
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "ecb16513fd0ef1282756e669100e65bd0b0a3ef093bada93f84ea4cc2fac51a0",
+        "percent": 6,
+        "range": 1,
+        "satoshis_per_byte_fee": 12
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "8aa4611267b5581173e42f7e31239689f334f40dcba21348b0710f3f48470be0",
+        "percent": 5,
+        "range": 1,
+        "satoshis_per_byte_fee": 31
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "6121dfebfd61a375bdd86857e3c146950610edd80033e98aeb21c2dac63bbd93",
+        "percent": 4,
+        "range": 2,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "f0a5aba6772ab11fae1fb19085fa94b741d50009fec849e2359d343980208604",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "1e7e2ebcfd3f25cf9ed0acf181b69c84d64d7de34ce129eb465b42038f0059a8",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 84
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 3,
+    "usd_cents_per_bitcoin": 65544,
+    "block_hash": "000000000000000003948c5fae0c7c7348c3a1ed4e181c8a3d033940343ffd92",
+    "block_number": 422629,
+    "block_network_arrival_date": "2016-07-28T16:38:37.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 1
   }
 }
