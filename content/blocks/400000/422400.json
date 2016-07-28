@@ -16740,5 +16740,68 @@
     "mining_pool_id": null,
     "mining_pool_name": null,
     "minutes_since_last_block": 31
+  },
+  "422565": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "4e7c14be29fd5ac925d351c058f1a17e97980c3da026b986924374cd06937bff",
+        "percent": 100,
+        "range": 89,
+        "satoshis_per_byte_fee": 55
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "4456b51e4b88251855bef8d04416c874d2d0cff72d06546fc42ce1549e08ce6b",
+        "percent": 11,
+        "range": 3,
+        "satoshis_per_byte_fee": 62
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "55491d8a644d31033d65ba89a403116b091a71df75abe9862818796c3be71157",
+        "percent": 8,
+        "range": 1,
+        "satoshis_per_byte_fee": 68
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "97aa709119e244cb81a502738edc24073cd357b141b48ad0da84123c84fb0745",
+        "percent": 7,
+        "range": 1,
+        "satoshis_per_byte_fee": 79
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "4270cfe3d0242e17bfafd7538b16a821dd49a7677c8d353a819d779f188346f2",
+        "percent": 6,
+        "range": 1,
+        "satoshis_per_byte_fee": 91
+      },
+      {
+        "fee_in_dollars": "0.22",
+        "lowest_fee_txid": "2219cd8d959a7b0a52a5d3c6a1e3bfa5e7b35752e6951a2374b1ae89b1599ad8",
+        "percent": 5,
+        "range": 4,
+        "satoshis_per_byte_fee": 133
+      },
+      {
+        "fee_in_dollars": "0.26",
+        "lowest_fee_txid": "2d5c6e6ba5eb3b245443528aefc9eefcf29cd51fa08328e932e99e8ae2b0b485",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 151
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 15,
+    "usd_cents_per_bitcoin": 65544,
+    "block_hash": "000000000000000003f1365a641d5768249dd2db8995f1ebe4051403c877dd98",
+    "block_number": 422565,
+    "block_network_arrival_date": "2016-07-28T07:23:51.000Z",
+    "mining_pool_id": "viabtc",
+    "mining_pool_name": "ViaBTC",
+    "minutes_since_last_block": 2
   }
 }
