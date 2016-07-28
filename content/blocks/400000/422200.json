@@ -939,6 +939,125 @@
     "mining_pool_name": "BW Pool",
     "minutes_since_last_block": 2
   },
+  "422208": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "5901c93d5b80fa965ed0a3a1294a138074f38e7b05836b5c9398ac0045fdc0fb",
+        "percent": 100,
+        "range": 72,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "de5f97671f58073d7ee3a5cfd24bab02046d3e5fb9f0d6db2b95412c0949e1ad",
+        "percent": 28,
+        "range": 3,
+        "satoshis_per_byte_fee": 61
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "6d9c34520b5c3e95b5329ba8b716de16be618163c2c1293d37761033013a9d70",
+        "percent": 25,
+        "range": 3,
+        "satoshis_per_byte_fee": 67
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "4bfafee5124655e4266a712c577ef346d5163048616b3aecddffaa0ced471935",
+        "percent": 22,
+        "range": 2,
+        "satoshis_per_byte_fee": 72
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "54b8f8ba3b0a2bc23b1882b1d734909ab330b8d1f4acf29a0b8f718534ea3ec9",
+        "percent": 20,
+        "range": 2,
+        "satoshis_per_byte_fee": 79
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "e931881605145ad4928db6bd9c95ddebba3563173404b556a34658509ef73e18",
+        "percent": 18,
+        "range": 2,
+        "satoshis_per_byte_fee": 85
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "4a29db9975cce8ed3caf1f88dbb81f1d0b3233a85dae1db2e004c0074e41216c",
+        "percent": 16,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      },
+      {
+        "fee_in_dollars": "0.17",
+        "lowest_fee_txid": "3a9b94d66736dd1cc0bf90066ecf638ef25cede9df459ee8df1274806e15c571",
+        "percent": 15,
+        "range": 1,
+        "satoshis_per_byte_fee": 102
+      },
+      {
+        "fee_in_dollars": "0.18",
+        "lowest_fee_txid": "5411cd0893ceb8ea65d3c8305024224d87508b52c7dc1b18ea810e165a6307f3",
+        "percent": 14,
+        "range": 1,
+        "satoshis_per_byte_fee": 108
+      },
+      {
+        "fee_in_dollars": "0.19",
+        "lowest_fee_txid": "1d28480802f004145ccd1014ca73c208ce823bde1411e736cf1c130f94ceb6d2",
+        "percent": 13,
+        "range": 1,
+        "satoshis_per_byte_fee": 112
+      },
+      {
+        "fee_in_dollars": "0.23",
+        "lowest_fee_txid": "38e137a138c274e1ff2db620ff0dbad865ef11e274f7bf97fa216c37452f8bf2",
+        "percent": 12,
+        "range": 5,
+        "satoshis_per_byte_fee": 138
+      },
+      {
+        "fee_in_dollars": "0.25",
+        "lowest_fee_txid": "860bab7159c61369ae99e53476402fff1a968dec2899b21ae82a5afda15e69cb",
+        "percent": 7,
+        "range": 4,
+        "satoshis_per_byte_fee": 149
+      },
+      {
+        "fee_in_dollars": "0.26",
+        "lowest_fee_txid": "f02943f40b06da4754d41e19033393d48453e8d7743613543405335633ace12f",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 153
+      },
+      {
+        "fee_in_dollars": "0.34",
+        "lowest_fee_txid": "180cfc147fbed424a81dde9417318c9e110d3d347793a575bd141f528e80f892",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 202
+      },
+      {
+        "fee_in_dollars": "0.46",
+        "lowest_fee_txid": "edac4b96914e65ec798e10049c714523d2f148677e785595e8010272d0d2b529",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 269
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 32,
+    "usd_cents_per_bitcoin": 66105,
+    "block_hash": "000000000000000004174526d28dc15fb8e3e814ae4640162d8199432614d9f1",
+    "block_number": 422208,
+    "block_network_arrival_date": "2016-07-25T11:37:02.000Z",
+    "mining_pool_id": "viabtc",
+    "mining_pool_name": "ViaBTC",
+    "minutes_since_last_block": 20
+  },
   "422217": {
     "block_full_percent": 100,
     "chunks": [
