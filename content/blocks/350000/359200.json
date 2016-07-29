@@ -286,5 +286,38 @@
     "mining_pool_id": "huobi",
     "mining_pool_name": "Avalon + Huobi",
     "minutes_since_last_block": 2
+  },
+  "359206": {
+    "block_full_percent": 3,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 97
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "9cc84a98259ec49f6c3e325593a730d20264f260d0d7721ec34a632ee06fe5d6",
+        "percent": 3,
+        "range": 2,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "60474b9e363e7810c022ebe4cf349557e51a06d20197465bbee2f9cb7626b119",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 41
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 88,
+    "usd_cents_per_bitcoin": 22575,
+    "block_hash": "00000000000000000edca57dbcdddcaed018c07f38d902c4b6dad7dcfbc1eddf",
+    "block_number": 359206,
+    "block_network_arrival_date": "2015-06-03T07:04:03.000Z",
+    "mining_pool_id": "telco214",
+    "mining_pool_name": "Telco 214",
+    "minutes_since_last_block": 0
   }
 }
