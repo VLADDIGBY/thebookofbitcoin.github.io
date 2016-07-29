@@ -32,3 +32,4 @@ Each block in the shared Blockchain collection of transactions includes a specia
 
 The input of a coinbase transaction does not have a script signature in its input, it has arbitrary miner chosen data, plus the difficulty target and a random *nonce* value called *extraNonce* used when mining to advance to a new set of hash possibilities for the proof of work mining system.
 
+Sometimes the coinbase transaction is represented as a hex string, as if it were a normal input to a transaction. Although this may be arbitrary data, commonly all that is needed to decode this transaction data is simply to convert the data represented by the hex string into a UTF output.
