@@ -698,5 +698,66 @@
     "mining_pool_id": "kncminer",
     "mining_pool_name": "KNCMiner",
     "minutes_since_last_block": 21
+  },
+  "375427": {
+    "block_full_percent": 69,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 31
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "ed00e5b8f5a5a5dc0840a21d32e44266c237cbf9c41e3c13fe1b56df1e7d88b2",
+        "percent": 69,
+        "range": 49,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "e3a10ebd962bb2a84bca403eb64c694b0ea174e5fa26cbc61153af1d5828ea41",
+        "percent": 20,
+        "range": 9,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "117d025276bea89a84592b723099c781ca20ce568273944fa2b4fe332dfdd3ca",
+        "percent": 11,
+        "range": 6,
+        "satoshis_per_byte_fee": 41
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "98d0dce6fb522f9d19b9a445df4239a410fcbcd55e212ec2528b490d7f6177b8",
+        "percent": 5,
+        "range": 2,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "c6ba5a0e3039915c0aebe65746c44a04ac39efa420bdd8002eb0ce2f093c7d7b",
+        "percent": 3,
+        "range": 2,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "aaafd93b3729910567c7bae75570b8efde12971ba0423a7ecaf82350e8de9bdc",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 50,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "00000000000000000840be0e9075254d78b9cb1156496135414220e592dea48e",
+    "block_number": 375427,
+    "block_network_arrival_date": "2015-09-21T05:13:08.000Z",
+    "mining_pool_id": "bwpool",
+    "mining_pool_name": "BW Pool",
+    "minutes_since_last_block": 7
   }
 }
