@@ -1,0 +1,69 @@
+{
+  "375416": {
+    "block_full_percent": 49,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 50
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "5aaf71fee73f6f40b920e41aa24be80268bc3c3e3b0dc63db4520953902d385f",
+        "percent": 50,
+        "range": 18,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "f9673417280fa995db586bd66fe84cb8aeb44bdff56ef4f31c82b964e6aef6e0",
+        "percent": 32,
+        "range": 15,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "d5b264285134e2350517843838014fc869f727a4ba57c0d25a96c2a157021b2f",
+        "percent": 17,
+        "range": 9,
+        "satoshis_per_byte_fee": 41
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "78678d859027fc4bc1cd58f2b201a9f686cb97972ca349db63eaa69c49c2ddb8",
+        "percent": 8,
+        "range": 4,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "dfe23a3cf0b24e85d810c80f559bc0b6acf495162d1f71cb69ba23106f5cdaff",
+        "percent": 4,
+        "range": 2,
+        "satoshis_per_byte_fee": 75
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "2f6c597f5338350458c82ecdc6710bb5e183cda60c5f0d0a850bddf516c90189",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 92
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "cd96f88c39b18558725d46680b4fda4a4d3dd3844da321281e2b208fc0dfcbdc",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 105
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 77,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "000000000000000011a18cc0b0f8bad04988c161b66f231510df2c6fa94b5c4b",
+    "block_number": 375416,
+    "block_network_arrival_date": "2015-09-21T02:23:22.000Z",
+    "mining_pool_id": "bitfury",
+    "mining_pool_name": "Bitfury"
+  }
+}
