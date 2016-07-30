@@ -1934,5 +1934,66 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 9
+  },
+  "375448": {
+    "block_full_percent": 39,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 61
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "53db6ee3eabe42abfb1be7b3e01dcc2bbf3e0692984b1c6ea433fb837e4edc26",
+        "percent": 39,
+        "range": 21,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "2d9a0bbbd52a11fd164311150ff447b89aec5f94bbe51f085750eca922080b8a",
+        "percent": 18,
+        "range": 10,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "dd149f40c9021b33a550b98656c5ce8f3abacb5831fce87a1f1bfd6fde81b99a",
+        "percent": 8,
+        "range": 4,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "eef89657e2223d39ee7f4caa78de2a8f54d39ad851d74741cd4b4e33df0136ff",
+        "percent": 4,
+        "range": 2,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "cb6b992ce5d1862a13183f8d879cd8f58436098aecd48b4f5d36882375d8df3c",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "f0f9543f6ad00d97e2f361b26da3133669d4208ae8325fb1ce9f5ab65cb09730",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 89
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 58,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "0000000000000000124d407af6f226defcb8bd15b91875c36e4a4fa4c324352d",
+    "block_number": 375448,
+    "block_network_arrival_date": "2015-09-21T08:38:23.000Z",
+    "mining_pool_id": "21inc",
+    "mining_pool_name": "21 Inc.",
+    "minutes_since_last_block": 5
   }
 }
