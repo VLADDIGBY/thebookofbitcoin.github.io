@@ -1334,5 +1334,45 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 10
+  },
+  "375438": {
+    "block_full_percent": 7,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 93
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "739d127a098ea60a7bbb16b14e7e468251e17904798902ab15c83cd7181f5e13",
+        "percent": 7,
+        "range": 5,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "79eeb53e88b9a946935869ac21cbf899716ca8939ea0802a0fb8d9f13ff4a0ee",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 23
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "5792b16cd84154f60135ccca8ab0c6a607b57ec475e5409d976326b55b4e51eb",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 39
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 89,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "00000000000000000b8e45de9f55e1669481806f1928924fb7eaa3413f262d2b",
+    "block_number": 375438,
+    "block_network_arrival_date": "2015-09-21T06:41:39.000Z",
+    "mining_pool_id": "slush",
+    "mining_pool_name": "Slush",
+    "minutes_since_last_block": 1
   }
 }
