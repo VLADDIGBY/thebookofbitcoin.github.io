@@ -3858,5 +3858,138 @@
     "mining_pool_id": "antpool",
     "mining_pool_name": "AntPool",
     "minutes_since_last_block": 21
+  },
+  "422835": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "9104e6a6e5f449f43d02159f86296510973304fa5262a57e700eb19cd829fffe",
+        "percent": 100,
+        "range": 53,
+        "satoshis_per_byte_fee": 55
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "c271533fe3ad03cb85ce5b01cd685f36b6640e041e29d882714c1af9735b5594",
+        "percent": 47,
+        "range": 8,
+        "satoshis_per_byte_fee": 62
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "eacaef6bbf7290fb9f0b11fd4dc93d606fd6d5537283319f2408fdcad1465791",
+        "percent": 39,
+        "range": 2,
+        "satoshis_per_byte_fee": 68
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "a13ffcee91e9503ab9f94e97c2f042763fd3646719980f20b487bda4161fb8d5",
+        "percent": 37,
+        "range": 2,
+        "satoshis_per_byte_fee": 72
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "87556c0b1dff59932ad032c1aa4a3df9e7bff957eca50cc89c3bbc451c1be082",
+        "percent": 35,
+        "range": 1,
+        "satoshis_per_byte_fee": 79
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "1d8adfc5c7b6002072b9ae536d7d714097a67b0e70c84fbf6e5458b0a51e7577",
+        "percent": 34,
+        "range": 1,
+        "satoshis_per_byte_fee": 85
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "34ca46deda103fca12b4d48c1eb37825c2563eae4570e77b841e9687ebfdcece",
+        "percent": 33,
+        "range": 1,
+        "satoshis_per_byte_fee": 91
+      },
+      {
+        "fee_in_dollars": "0.16",
+        "lowest_fee_txid": "a2af37f5cb401b5a9a2164d5cbd7c5c668d6fd49501ca8c87235edb542954812",
+        "percent": 32,
+        "range": 1,
+        "satoshis_per_byte_fee": 97
+      },
+      {
+        "fee_in_dollars": "0.17",
+        "lowest_fee_txid": "fc68ed852ba13f74e0b4337af9f51671f919ecc6e7a63883e430e2aa4f010117",
+        "percent": 31,
+        "range": 1,
+        "satoshis_per_byte_fee": 103
+      },
+      {
+        "fee_in_dollars": "0.19",
+        "lowest_fee_txid": "e55c1e5221444ba6f7d79abf657449ed9fe8cec08365f2c830227b6ad377cf95",
+        "percent": 30,
+        "range": 1,
+        "satoshis_per_byte_fee": 115
+      },
+      {
+        "fee_in_dollars": "0.22",
+        "lowest_fee_txid": "2a877b08711736474ed86a262dd8175d39f696f84240a8072093b17aa7db4c0a",
+        "percent": 29,
+        "range": 2,
+        "satoshis_per_byte_fee": 133
+      },
+      {
+        "fee_in_dollars": "0.23",
+        "lowest_fee_txid": "63458d35d159794df4c0a0da5b5d62a71aef5fed8d97756302b7a06d3f8fac21",
+        "percent": 27,
+        "range": 21,
+        "satoshis_per_byte_fee": 138
+      },
+      {
+        "fee_in_dollars": "0.25",
+        "lowest_fee_txid": "7b7e97845947493434c03ba491b0f563faed8f0210e4b16c2d9efbe9efdf4b8a",
+        "percent": 6,
+        "range": 2,
+        "satoshis_per_byte_fee": 150
+      },
+      {
+        "fee_in_dollars": "0.26",
+        "lowest_fee_txid": "5ee90dc0ed3115bf5858050772db36eb662550a0f54d21a5efe362d7e58b4da0",
+        "percent": 4,
+        "range": 1,
+        "satoshis_per_byte_fee": 156
+      },
+      {
+        "fee_in_dollars": "0.29",
+        "lowest_fee_txid": "cc5bfe4474360b75ea09aa77a6836be2bc6b74032b40618c3660b7b5f9d32ad0",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 173
+      },
+      {
+        "fee_in_dollars": "0.38",
+        "lowest_fee_txid": "883a3280fc3b4e1371fb3944eeb6fedc5cc536e9174ee09c34dedfe81f50aaa6",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 227
+      },
+      {
+        "fee_in_dollars": "0.46",
+        "lowest_fee_txid": "80450b8835c8aecc0af5e8e9993be3456a271ee37b610c039a8e11d96ba8ebc2",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 269
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 32,
+    "usd_cents_per_bitcoin": 65667,
+    "block_hash": "00000000000000000208cfdb704489e95723a95e761f2a22abbde85f6337e3cf",
+    "block_number": 422835,
+    "block_network_arrival_date": "2016-07-30T03:42:11.000Z",
+    "mining_pool_id": "viabtc",
+    "mining_pool_name": "ViaBTC",
+    "minutes_since_last_block": 36
   }
 }
