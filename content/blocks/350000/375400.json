@@ -1559,5 +1559,73 @@
     "mining_pool_id": "btcc",
     "mining_pool_name": "BTCC",
     "minutes_since_last_block": 4
+  },
+  "375442": {
+    "block_full_percent": 75,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 25
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "3ec681f79929473d1f0c49e7d6535936c367527a4f0ad3d39eb3d2b7169b684c",
+        "percent": 75,
+        "range": 27,
+        "satoshis_per_byte_fee": 1
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "c7b94771a246e0a5488f143b2b619404af34623596e7280ec9e016b69d6fb144",
+        "percent": 48,
+        "range": 25,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "3aae2d73bd4fff348329653f122e18862aa8d3454da9825e2438b39fafdaec5a",
+        "percent": 23,
+        "range": 14,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "36f677c765aa7b5ff393d84ebab2dae4874f61c9f4a7df7b7637246be5c528f2",
+        "percent": 9,
+        "range": 4,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "972621a7835881f2b710e352c7c1bd2dd9c58cf7825af1f0cb421531b0e1d07e",
+        "percent": 5,
+        "range": 3,
+        "satoshis_per_byte_fee": 75
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "84dceb20b7df63802c5a7e1cb428f019615d94adf7aec9c62250f640a10115dd",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 92
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "60962583509fb5f7291d081bb20191c8c833f5f722ebb40f5d2c0ba0b32446b5",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 107
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 74,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "000000000000000003f8e1cad05db04ccaf9a7a44c67032b56ae12a4e511b445",
+    "block_number": 375442,
+    "block_network_arrival_date": "2015-09-21T07:36:09.000Z",
+    "mining_pool_id": "telco214",
+    "mining_pool_name": "Telco 214",
+    "minutes_since_last_block": 21
   }
 }
