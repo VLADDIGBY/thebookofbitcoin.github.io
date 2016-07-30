@@ -1866,5 +1866,73 @@
     "mining_pool_id": "btcc",
     "mining_pool_name": "BTCC",
     "minutes_since_last_block": 2
+  },
+  "375447": {
+    "block_full_percent": 40,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 60
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "fb8469a1dad0d29f7a7910aab62f32ff1ad3dc73a6c2724b5c059ad7d099cf68",
+        "percent": 40,
+        "range": 15,
+        "satoshis_per_byte_fee": 1
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "658341b4129e3aa732e4a641e6217219c80d044970a044451e4aa231eeaa0980",
+        "percent": 25,
+        "range": 10,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "c309965216fcb13a0868822cc92a4a1d47d254e2fbf7748a645346906955559d",
+        "percent": 15,
+        "range": 6,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "dccb735286ba69c4b39c44a038ae5b1c54aad748b86b6bdaf286f20fef26264b",
+        "percent": 9,
+        "range": 3,
+        "satoshis_per_byte_fee": 57
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "f0ce08beca4d0f558b6151050f2706e6e6d01ace50b2646a553e9ab631b82999",
+        "percent": 6,
+        "range": 4,
+        "satoshis_per_byte_fee": 75
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "b7c642ba9ca43a5b1697441391fd95114d1e5dcb28fef74c76d35f2bac845506",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 91
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "fe3a4c209f25b40f1c3e6920c966b67a766d3a671e211af4cd5037a585269e1f",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 221
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 66,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "00000000000000000d6a2bdcfdbe7ac8d5532b02322c07797ae4c82a2a91a69d",
+    "block_number": 375447,
+    "block_network_arrival_date": "2015-09-21T08:33:40.000Z",
+    "mining_pool_id": "discusfish",
+    "mining_pool_name": "DiscusFish / F2Pool",
+    "minutes_since_last_block": 9
   }
 }
