@@ -956,5 +956,24 @@
     "mining_pool_id": "slush",
     "mining_pool_name": "Slush",
     "minutes_since_last_block": 0
+  },
+  "375431": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 100
+      }
+    ],
+    "data_storage_percent": null,
+    "fixed_fee_percent": null,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "0000000000000000074736e596b6df57e571acdcd3f5b33f19b0a7a587a8096e",
+    "block_number": 375431,
+    "block_network_arrival_date": "2015-09-21T05:53:29.000Z",
+    "mining_pool_id": "discusfish",
+    "mining_pool_name": "DiscusFish / F2Pool",
+    "minutes_since_last_block": 0
   }
 }
