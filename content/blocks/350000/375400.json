@@ -65,5 +65,66 @@
     "block_network_arrival_date": "2015-09-21T02:23:22.000Z",
     "mining_pool_id": "bitfury",
     "mining_pool_name": "Bitfury"
+  },
+  "375417": {
+    "block_full_percent": 40,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 60
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "0b7aca1a36062b28aff2abdbc030c20b5282a7f4c0d5307714c43fc58c63e489",
+        "percent": 40,
+        "range": 21,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "da60e6f25ea4764683834b807c1f8f57ded855e9bd1ffabeb56d3a154d010318",
+        "percent": 19,
+        "range": 8,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "160c07c871080a9baf86c7f66138c1b4e6e86173e9da16630fb5189d049b83b9",
+        "percent": 11,
+        "range": 6,
+        "satoshis_per_byte_fee": 41
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "8c79b845ca64bef2c738b0327d8aad90c3c8dfcee17196aa732c04f46cda98c6",
+        "percent": 5,
+        "range": 2,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "28fe0f5c10898b4dadd334c922e9d63ae5c7177b166528b2446a380374660e08",
+        "percent": 3,
+        "range": 2,
+        "satoshis_per_byte_fee": 75
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "c4d51b425b76159ee1ba3866a6b7a141e13713a3752c01e3e60279e578a0c4dd",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 89
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 88,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "00000000000000000f819223cd8baeffbf520a93fce4674d82d747ec34e98b81",
+    "block_number": 375417,
+    "block_network_arrival_date": "2015-09-21T02:32:57.000Z",
+    "mining_pool_id": "discusfish",
+    "mining_pool_name": "DiscusFish / F2Pool",
+    "minutes_since_last_block": 10
   }
 }
