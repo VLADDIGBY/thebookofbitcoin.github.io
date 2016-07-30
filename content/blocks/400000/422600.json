@@ -19827,6 +19827,32 @@
     "mining_pool_name": "ViaBTC",
     "minutes_since_last_block": 1
   },
+  "422772": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 99
+      },
+      {
+        "fee_in_dollars": "0.20",
+        "lowest_fee_txid": "df3148a2bba73289c9c19cd4eaf8343260182c274f992ffb04a3154f2f922466",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 119
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 89,
+    "usd_cents_per_bitcoin": 65563,
+    "block_hash": "000000000000000004b8c099824f5e34a792cf960047f7b4e0912a14c07a1c1e",
+    "block_number": 422772,
+    "block_network_arrival_date": "2016-07-29T16:47:12.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 0
+  },
   "422774": {
     "block_full_percent": 39,
     "chunks": [
