@@ -1995,5 +1995,66 @@
     "mining_pool_id": "21inc",
     "mining_pool_name": "21 Inc.",
     "minutes_since_last_block": 5
+  },
+  "375449": {
+    "block_full_percent": 20,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 80
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "8736f9d67d1a1c932c9f99cddedc7e025bbf27014727f95f6a43bcdad82a6391",
+        "percent": 20,
+        "range": 11,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "35664ee12f14bd7100bd2c4b239bb5a6b73d908767dc7bff34595b5091785d6d",
+        "percent": 9,
+        "range": 3,
+        "satoshis_per_byte_fee": 24
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "f2a730a823ba8d208267e74677a0909f14ec8c7ec141c44373fc1b3da3fccbed",
+        "percent": 6,
+        "range": 3,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "be9f07cba3d691b28265d0bcfdfe22eb9575bf3880bfc230bfe5bd0cbb435416",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 55
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "06b5a925d14532673cf8b5329bd95e0371ce17003553067da1b0bf63ae2591e1",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "3e89c818df3ac81f7d23781c9cc83a6b11740110bfd5eb4f9764fe4d57db9013",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 89
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 81,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "00000000000000000c46fe234143ea5baf80ce8237750dc0cc4e858f3c2555f9",
+    "block_number": 375449,
+    "block_network_arrival_date": "2015-09-21T08:41:16.000Z",
+    "mining_pool_id": "bitfury",
+    "mining_pool_name": "Bitfury",
+    "minutes_since_last_block": 3
   }
 }
