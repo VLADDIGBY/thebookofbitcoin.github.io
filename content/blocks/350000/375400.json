@@ -295,5 +295,66 @@
     "mining_pool_id": "telco214",
     "mining_pool_name": "Telco 214",
     "minutes_since_last_block": 1
+  },
+  "375421": {
+    "block_full_percent": 11,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 89
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "67cd6efedc23010510d736ac53b70ae0dda62e3179de44ebbb644b89709bd7d3",
+        "percent": 11,
+        "range": 2,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "287c1181060015d3f9df392a4b35bc4f45a66622bcd387e2da02098a67a49604",
+        "percent": 9,
+        "range": 1,
+        "satoshis_per_byte_fee": 23
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "f5c876e35473624e5f4e22bc587f28d7a039143650b220423ae0a1eb6b2867a8",
+        "percent": 8,
+        "range": 3,
+        "satoshis_per_byte_fee": 39
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "86f3f5ef7ec4df684454755b2728fa56b40e8131e8d2002bd4825de83bced99d",
+        "percent": 5,
+        "range": 1,
+        "satoshis_per_byte_fee": 55
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "0207e4daef6837561184219557377210b2a5777f6b8091688d98a7954911745f",
+        "percent": 4,
+        "range": 3,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "d95de429cb22801575ed7d096b175d2afe99e9f8e97c73f53d8509207e9e82f8",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 57,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "00000000000000000715ec5d8f9b1790910684ffa97bd9d13063ce53da5baba1",
+    "block_number": 375421,
+    "block_network_arrival_date": "2015-09-21T02:54:19.000Z",
+    "mining_pool_id": "bwpool",
+    "mining_pool_name": "BW Pool",
+    "minutes_since_last_block": 2
   }
 }
