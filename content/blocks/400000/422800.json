@@ -1413,5 +1413,73 @@
     "mining_pool_id": "antpool",
     "mining_pool_name": "AntPool",
     "minutes_since_last_block": 6
+  },
+  "422813": {
+    "block_full_percent": 14,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 86
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "6de1c88de10093d350498fc79860f4be383bbc28be3f7ad2628f6c82359bc153",
+        "percent": 14,
+        "range": 2,
+        "satoshis_per_byte_fee": 12
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "abfbf8ad348cc105eb0f206be461929a68386fcaa3fc3d5a6ddb962f6bd6a912",
+        "percent": 12,
+        "range": 1,
+        "satoshis_per_byte_fee": 23
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "8605cbe69b05d36a23d672ad40d4c16feee63a91f259eaa397f322eb4122604e",
+        "percent": 11,
+        "range": 7,
+        "satoshis_per_byte_fee": 32
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "4c80ca4bc99bb9d5e8330b20f9609396519f859c9e0f821af8416997519f74a3",
+        "percent": 4,
+        "range": 1,
+        "satoshis_per_byte_fee": 44
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "7a66603a4b1dfcbb8cc4d42107f89be8d9b534e541e61f58df45fb3a386aed03",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "81c0ccf71ea48107b1771388cd69d8203b1a3de796d8eaf24b2561f1bc93c1d9",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "a74a3917fd4e4a304008a4f701ed72f42af9875c8591787ac2651a8149bf770d",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 86
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 15,
+    "usd_cents_per_bitcoin": 65563,
+    "block_hash": "0000000000000000029ca523b0ddc56db50d05b6680551a02cb7fac13d65f460",
+    "block_number": 422813,
+    "block_network_arrival_date": "2016-07-29T23:48:58.000Z",
+    "mining_pool_id": "slush",
+    "mining_pool_name": "Slush",
+    "minutes_since_last_block": 0
   }
 }
