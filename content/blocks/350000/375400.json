@@ -5913,5 +5913,66 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 2
+  },
+  "375508": {
+    "block_full_percent": 58,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 42
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "1459e28ee0e3709dc124fac6eac061e1f2c2aaba61261646f57304718236d9d1",
+        "percent": 58,
+        "range": 36,
+        "satoshis_per_byte_fee": 1
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "73ca4f993c0c2f18f4823114253f6435d96e9074b9f80762f278abe8678e5695",
+        "percent": 22,
+        "range": 12,
+        "satoshis_per_byte_fee": 23
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "f5a23230b3aac163a69169ed9d2857d1b1a5e5714a637ee7f51b812582c3c906",
+        "percent": 10,
+        "range": 6,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "c83ed127e03426f79b49db73e1c61f57a355f6e9a9812f2d4e2db7a1eaf5eae2",
+        "percent": 4,
+        "range": 1,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "e13e040764d0af45b6a8f2b20883c6009523f47f965b322d44348514ee94427f",
+        "percent": 3,
+        "range": 2,
+        "satoshis_per_byte_fee": 75
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "104137bb99b958926a6367c1390881004f2f50e25fe929c54f32238e9b7ff4ce",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 91
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 45,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "00000000000000000eb57eab4a2dd41b05869cd17d6c09daefe33632b22015dc",
+    "block_number": 375508,
+    "block_network_arrival_date": "2015-09-21T20:36:48.000Z",
+    "mining_pool_id": "bwpool",
+    "mining_pool_name": "BW Pool",
+    "minutes_since_last_block": 8
   }
 }
