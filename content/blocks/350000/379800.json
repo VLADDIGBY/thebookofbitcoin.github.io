@@ -73,6 +73,67 @@
     "mining_pool_id": "telco214",
     "mining_pool_name": "Telco 214"
   },
+  "379843": {
+    "block_full_percent": 25,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 74
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "437d21ba43e00dfba7317e39e9bdd85d2b85ad35aa74375347fdac76547df437",
+        "percent": 26,
+        "range": 15,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "85ca0c75b381ada655b532d0e1c6d8fc01a650cb98abc81d530f0bcd84b85af2",
+        "percent": 11,
+        "range": 3,
+        "satoshis_per_byte_fee": 21
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "401461490bd6e479d278d745d9e446306fa55828e6feed053a662c5bcb585c44",
+        "percent": 8,
+        "range": 4,
+        "satoshis_per_byte_fee": 34
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "a531f9688d5c7eb36b96ce7f0d7e47bfad9662c562fea9320c5bda33f1b30408",
+        "percent": 4,
+        "range": 2,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "cee0f89c99e4aa5fd6f067d7dd8a69b36eb5b71be65ffb3103002b648b130d58",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 78
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "649a7dd1acef19db470a27299097c76f4fcea6e887b7df3e3ead04e3a602d1bd",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 78,
+    "usd_cents_per_bitcoin": 27022,
+    "block_hash": "000000000000000003b3b9a9fc8142dcdcdc56ee44836b1a4e93d050777a160e",
+    "block_number": 379843,
+    "block_network_arrival_date": "2015-10-21T06:05:31.000Z",
+    "mining_pool_id": "bitfury",
+    "mining_pool_name": "Bitfury",
+    "minutes_since_last_block": 4
+  },
   "379865": {
     "block_full_percent": 64,
     "block_hash": "00000000000000000816c4014fac908f419f072fe7a9123fce5491441e9c8932",
