@@ -6225,5 +6225,66 @@
     "mining_pool_id": "kncminer",
     "mining_pool_name": "KNCMiner",
     "minutes_since_last_block": 31
+  },
+  "375513": {
+    "block_full_percent": 97,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 3
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "31dd59973204f5ac02f8cb88620e2394856c3596ac3cf4c755306576a3ffe2dd",
+        "percent": 97,
+        "range": 81,
+        "satoshis_per_byte_fee": 1
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "4577e541da6e63281c6ec08404e7a1bfb6f06e7c87653a1125fbe577b707f680",
+        "percent": 16,
+        "range": 10,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "41c87d2a368e7976001f3a2dd79b7748db0f8d3794ed207ab8c74f530876ef5e",
+        "percent": 6,
+        "range": 3,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "6a944920885e49f459ca0a763dae6f0aa9f71c625babbba9521826a1adb81df8",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "d835ea35ae408d8463f36429c200a8fa738ae5a38e88adc6d8c5502bc45598e2",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "326884c18d44cf1f738906f4876f58391e7bd8abf7af67d367bbdc138587d736",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 88
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 37,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "000000000000000004c876eff92334b31610dc0ba11b45f53a20645a1bdd7002",
+    "block_number": 375513,
+    "block_network_arrival_date": "2015-09-21T21:25:23.000Z",
+    "mining_pool_id": "discusfish",
+    "mining_pool_name": "DiscusFish / F2Pool",
+    "minutes_since_last_block": 3
   }
 }
