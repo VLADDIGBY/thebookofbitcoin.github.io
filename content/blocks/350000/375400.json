@@ -4725,5 +4725,66 @@
     "mining_pool_id": "antpool",
     "mining_pool_name": "AntPool",
     "minutes_since_last_block": 17
+  },
+  "375490": {
+    "block_full_percent": 25,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 74
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "c36cd5ab4148b3d08c6ff510a987fef8ccf2b7eaf666ea88376ef51220cc6ea8",
+        "percent": 26,
+        "range": 14,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "b1347455a845d44f066f9dff52e94bc2be5248e4241bc2967167397804551185",
+        "percent": 12,
+        "range": 5,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "ebf98d143490f34f0efacf43d618875fb27e0f1bbe9108e23d3158327acf0563",
+        "percent": 7,
+        "range": 4,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "e719c84e7effad7de272c86f7206f62ddcdb588d4338d99e298fe6dac8a3830d",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "a137f6a36098dc8acfee901b3012619315fbd906b1a02755149553bd031b7d70",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 75
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "e24bd5f5d786da1575a1ad8c0e6811dd2a1c02d24e2c0349ad461bb757e839a3",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 91
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 77,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "000000000000000009cca4a5dc84defaa0e89aa974a3fcd9319571e0c4d0956f",
+    "block_number": 375490,
+    "block_network_arrival_date": "2015-09-21T16:57:50.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 4
   }
 }
