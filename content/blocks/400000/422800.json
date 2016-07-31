@@ -19062,5 +19062,31 @@
     "mining_pool_id": "antpool",
     "mining_pool_name": "AntPool",
     "minutes_since_last_block": 3
+  },
+  "422967": {
+    "block_full_percent": 1,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 99
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "45825624788708677f36bfd1157434baf87a27c50d656e964ccd932d49a268ce",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 55
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 53,
+    "usd_cents_per_bitcoin": 65498,
+    "block_hash": "000000000000000004ff475e6a8b147755e9df4d295f8bc1979663bb58e42f8f",
+    "block_number": 422967,
+    "block_network_arrival_date": "2016-07-31T05:36:18.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 3
   }
 }
