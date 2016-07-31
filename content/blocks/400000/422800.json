@@ -15704,5 +15704,129 @@
     "mining_pool_id": "bitfury",
     "mining_pool_name": "Bitfury",
     "minutes_since_last_block": 20
+  },
+  "422939": {
+    "block_full_percent": 99,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 1
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "fdf91754f9d74e323e2b6dcc274aaa008894d57f0726174fc56d95eea61879fa",
+        "percent": 99,
+        "range": 12,
+        "satoshis_per_byte_fee": 59
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "61a9cfdf32e42d9f91d44b2d060572a0f1f4f5a60f63ef1134932acc0e178c1a",
+        "percent": 87,
+        "range": 2,
+        "satoshis_per_byte_fee": 68
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "d544ab4e099622772c57d7bad8922e2e8ae10b586fcea06c21bc710225a54fcd",
+        "percent": 85,
+        "range": 1,
+        "satoshis_per_byte_fee": 73
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "3fa8b8dde8da74628fb462208a2004490569cd090351305ff51762c147b2b3b9",
+        "percent": 84,
+        "range": 4,
+        "satoshis_per_byte_fee": 80
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "3acd06988ef40fc0cd4db2343177b16796253ee24d7e4000613daab44cbfb6ad",
+        "percent": 80,
+        "range": 62,
+        "satoshis_per_byte_fee": 86
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "8af4098a1cafe94d8b60e263e525f83cfb58f9d200067961558d065adaa4f9bf",
+        "percent": 18,
+        "range": 1,
+        "satoshis_per_byte_fee": 92
+      },
+      {
+        "fee_in_dollars": "0.16",
+        "lowest_fee_txid": "d394c2634b147167608c3db51b3e3d90917c526041d5149bfc87b8fc001c319c",
+        "percent": 17,
+        "range": 1,
+        "satoshis_per_byte_fee": 98
+      },
+      {
+        "fee_in_dollars": "0.17",
+        "lowest_fee_txid": "ce02d98045285234fdd922c7d5031d12f55e0b5030766ef05663d668b494d2b4",
+        "percent": 16,
+        "range": 1,
+        "satoshis_per_byte_fee": 103
+      },
+      {
+        "fee_in_dollars": "0.19",
+        "lowest_fee_txid": "a0f8ce403151c91cefdc3160dffcf34f510b9ccb0e3a1918fed2d6cf494b6222",
+        "percent": 15,
+        "range": 1,
+        "satoshis_per_byte_fee": 115
+      },
+      {
+        "fee_in_dollars": "0.21",
+        "lowest_fee_txid": "ffe899c4f87cb9078fd30e53e05ff3cdbf34e243e1924db8e6c63bed4734963a",
+        "percent": 14,
+        "range": 1,
+        "satoshis_per_byte_fee": 127
+      },
+      {
+        "fee_in_dollars": "0.23",
+        "lowest_fee_txid": "a8a39450e9a805b4810328822c091b90e3102c7a38ce3f9a7e1114f30d8a464a",
+        "percent": 13,
+        "range": 1,
+        "satoshis_per_byte_fee": 139
+      },
+      {
+        "fee_in_dollars": "0.25",
+        "lowest_fee_txid": "e108b7154016259ff590dbfbba3add2be5f13b0bd0d01dda19982079063de2fb",
+        "percent": 12,
+        "range": 1,
+        "satoshis_per_byte_fee": 151
+      },
+      {
+        "fee_in_dollars": "0.26",
+        "lowest_fee_txid": "803bb13e4af36b8c3ed7375a23b091ffa4841dca8e8f4854deaa375037b603e8",
+        "percent": 11,
+        "range": 9,
+        "satoshis_per_byte_fee": 156
+      },
+      {
+        "fee_in_dollars": "0.30",
+        "lowest_fee_txid": "5110a0b07dd2e6cacc15b755f0bae8e430ecc6cad75f37bad82be8c82e92b2c4",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 180
+      },
+      {
+        "fee_in_dollars": "0.33",
+        "lowest_fee_txid": "a5aca06bd5756e6d4e442f78f47bd6f783fe11f0d5e424dab6bfb77bb284efd3",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 195
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 17,
+    "usd_cents_per_bitcoin": 65498,
+    "block_hash": "000000000000000004041db4869ddfd44ee71d31583ea76f0d209eabf1e0e782",
+    "block_number": 422939,
+    "block_network_arrival_date": "2016-07-31T01:13:30.000Z",
+    "mining_pool_id": "kano",
+    "mining_pool_name": "Kano CKPool",
+    "minutes_since_last_block": 24
   }
 }
