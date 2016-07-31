@@ -4186,5 +4186,66 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 21
+  },
+  "375482": {
+    "block_full_percent": 93,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 6
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "08b0abcbd04cbe9a18c2e66525c65a4c1a41701b516b81fd50bdb0b21ea97609",
+        "percent": 94,
+        "range": 48,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "a4cad8b35f501f17f0f2eb833fc11ef945414a75bd63aadc17caa1bdfe8e39a3",
+        "percent": 46,
+        "range": 39,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "3f9b1d91c8f2988bffe852fdbbf88fbadc457b3fac8ddce1cf28473ef632c40a",
+        "percent": 7,
+        "range": 4,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "8b9fee4b53d1fab33897ce2bb82e8402c9a3dfcecbddfd5db4cf48dff72942db",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "8f7fa607b1236d798a052eb2f812081b38dceddc2b6d7d712897d4173a965c61",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "c7f091323f1a61f1504016895057a2345aaa73eb086a40b5f14a1f8ee19ae6dd",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 88
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 68,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "0000000000000000080baee7ff8e34ee47a9212e53f5c6a6382d11e3ce14adba",
+    "block_number": 375482,
+    "block_network_arrival_date": "2015-09-21T15:47:40.000Z",
+    "mining_pool_id": "kncminer",
+    "mining_pool_name": "KNCMiner",
+    "minutes_since_last_block": 0
   }
 }
