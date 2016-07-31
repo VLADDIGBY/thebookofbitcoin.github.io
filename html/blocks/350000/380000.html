@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Book of Bitcoin</title>
+    <link href="../../../css/blocks.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h1><span>Block Atlas </span><small>Space used in blocks by standard transaction normalized fees</small></h1>
+      <div class="well well-sm">Horizontal: percent of space used by fee level. Vertical: fee bid level depth. Fees represent median transaction size total cost.</div>
+    </div>
+    <div class="container" id="blocks">
+      <div class="block row" id="380065">
+        <h3><a class="label label-default" data-toggle="tooltip" href="#380065" title="Mined by BTCC">Block 380065</a>
+          <div class="label label-warning" data-toggle="tooltip" title="Fees with only one unique digit">67% Static Fee</div>
+        </h3>
+        <div class="chunk empty" style="background:hsl(37, 100%, 100%);height:20px;width:5%"><span class="fee">$0.00</span>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 97.5%);height:40px;width:38%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/fa2912627370623de45ae2b7921ddc53ec5a434ad83797d5315dadbca2d72647" target="_blank" title="0 Satoshis/Byte - 380kB">$0.00</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 78.5%);height:60px;width:20%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/2e67f30305b54509c4a54894fa192c21c929bce00d4a1241070d8fbbdfc5da40" target="_blank" title="22 Satoshis/Byte - 200kB">$0.01</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 68.5%);height:80px;width:19%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/06f47a61e6e6b432dfb525a367aae04dddaac9e1fe22dfbff12fcc61f2ccd907" target="_blank" title="36 Satoshis/Byte - 190kB">$0.02</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 59%);height:100px;width:6%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/94dbd23703c8f8a01c0abce019212e1bdf375f8cb7d85aa7f6269086e8f115fc" target="_blank" title="51 Satoshis/Byte - 60kB">$0.03</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 56%);height:120px;width:5%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/8460b2ca408a22e9ded9a52a27fe58e7e223bdf65a0641b9c1e368bdcc7ab93d" target="_blank" title="65 Satoshis/Byte - 50kB">$0.04</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 53.5%);height:140px;width:4%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/52156743d234074519ba400e82b1e03f195cb3adfed883416c0078c3531366e2" target="_blank" title="78 Satoshis/Byte - 40kB">$0.05</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 51.5%);height:160px;width:1%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/a82983684424e847f249652642e43d84e52071626f8b774cccf757121881243d" target="_blank" title="92 Satoshis/Byte - 10kB">$0.06</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 51%);height:180px;width:1%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/a1a8b129c94d5ffea83fc9784bbc8d5846a416482f36701b30c24aee1d2a3c85" target="_blank" title="107 Satoshis/Byte - 10kB">$0.07</a>
+        </div>
+        <div class="chunk" style="background:hsl(37, 100%, 50.5%);height:200px;width:1%"><a class="fee" data-toggle="tooltip" href="https://tradeblock.com/bitcoin/tx/9eb1b79e5a2ca44ec6530a37bab61f1f99888deff410093129e630ea19b66ddc" target="_blank" title="150 Satoshis/Byte - 10kB">$0.10</a>
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script type="text/javascript">$("[data-toggle=\"tooltip\"]").tooltip();</script>
+  </body>
+</html>
