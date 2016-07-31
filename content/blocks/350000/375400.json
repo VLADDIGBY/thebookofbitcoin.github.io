@@ -4941,5 +4941,66 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 1
+  },
+  "375494": {
+    "block_full_percent": 39,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 61
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "65847e4186bb92cce61ebc16502686c346563c7b29b9b78c22bb89fc11319bc0",
+        "percent": 39,
+        "range": 17,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "1dae42ac48e0639fdb8d16796f88d15068fee9d01657560558cfa327bb6b7ff6",
+        "percent": 22,
+        "range": 12,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "6db5f1c4690cd0fd3d5ca451f7073017e834d871263e16f8042aca026d652c0a",
+        "percent": 10,
+        "range": 5,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "4c5690071483ddd2f89fa45babeb19aadd5735ad2109612c2281db5ecc709af6",
+        "percent": 5,
+        "range": 2,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "9559e82d7e9b17d6952618c7d6d78c76123272431588d1d70bc4d6915867547a",
+        "percent": 3,
+        "range": 2,
+        "satoshis_per_byte_fee": 75
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "b1898805082e6d71b481aede50cb830d3c46bd36ecd0c395e00fe411024332a2",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 89
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 79,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "000000000000000009d3b04900139dd230489f3ef4b75c811f56b7997dc5b7df",
+    "block_number": 375494,
+    "block_network_arrival_date": "2015-09-21T17:06:42.000Z",
+    "mining_pool_id": "bitfury",
+    "mining_pool_name": "Bitfury",
+    "minutes_since_last_block": 4
   }
 }
