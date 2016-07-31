@@ -5791,5 +5791,73 @@
     "mining_pool_id": "discusfish",
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 26
+  },
+  "375506": {
+    "block_full_percent": 97,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 2
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "1f9e0684dddf15fc8dfd60532f3b8fb425f4f1625ec7c9cbffb0dc4e426db0a6",
+        "percent": 98,
+        "range": 55,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "266fc768645338c81d43876bd179077020f4eb8519a9e290980b433befafa706",
+        "percent": 43,
+        "range": 21,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "d0a17a5d36d8e22688c061bd1af0b3d0a4eb7138e34623f0143f0ba0e0140ab8",
+        "percent": 22,
+        "range": 12,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "1bbb9ca09e806ebe8c1823a38a53e10b07fe3aa0ae52dc3a3a5a90bec7a1694d",
+        "percent": 10,
+        "range": 4,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "95375ddfe15c08c7fd00b71a39803390f73dbfdc38a3c4f4f0451fca7c328def",
+        "percent": 6,
+        "range": 4,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "9c1ca6cb049df2007b1c895deea654782c1e3f663c53173c3bd69e5ac04fa57d",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 92
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "083e60ac9b763ac985d69442dac2ca60e34b704190193db5c1575227bcff85d2",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 153
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 60,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "000000000000000010513e96a5b912a226ab6db422f03b7d0c70fb38545b88b9",
+    "block_number": 375506,
+    "block_network_arrival_date": "2015-09-21T20:26:20.000Z",
+    "mining_pool_id": "bitfury",
+    "mining_pool_name": "Bitfury",
+    "minutes_since_last_block": 11
   }
 }
