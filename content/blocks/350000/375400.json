@@ -3429,5 +3429,66 @@
     "mining_pool_id": "bitfury",
     "mining_pool_name": "Bitfury",
     "minutes_since_last_block": 21
+  },
+  "375470": {
+    "block_full_percent": 93,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 6
+      },
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "3149f06b7ece11e671cd150ddb7047cd50cc1f972155c9f46c1ba006f41bc1d3",
+        "percent": 94,
+        "range": 71,
+        "satoshis_per_byte_fee": 0
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "29ddf78e3c32716264977491448e6d0fd26f9ab9a8b91aa3bd3033dbf88d6d35",
+        "percent": 23,
+        "range": 11,
+        "satoshis_per_byte_fee": 25
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "4c81602f34e2de945f207bd5fb71a69fb7317ea751f4a1ee833a74117164d1c3",
+        "percent": 12,
+        "range": 9,
+        "satoshis_per_byte_fee": 42
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "19e9abeeb0a5d1f3084336b996f80e9be16e784d43198cdab480c1208cd1c4fb",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 58
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "578ebac85e0e9eae10a615e720d518f84477548bc6f1db6b04071b2e0cf1585f",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 74
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "64bee6cf7a8bc566434f9195fc6b777fceb9acb2c62d96d6a70567630e3db41e",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 90
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 22,
+    "usd_cents_per_bitcoin": 23086,
+    "block_hash": "00000000000000000dbb51912d8d26a901e88bcc98f03217ac37ef4e2edae2ba",
+    "block_number": 375470,
+    "block_network_arrival_date": "2015-09-21T13:26:47.000Z",
+    "mining_pool_id": "kncminer",
+    "mining_pool_name": "KNCMiner",
+    "minutes_since_last_block": 4
   }
 }
