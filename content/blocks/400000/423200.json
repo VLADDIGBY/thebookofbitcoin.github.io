@@ -10457,5 +10457,31 @@
     "mining_pool_id": "bitclubnetwork",
     "mining_pool_name": "BitClub Network",
     "minutes_since_last_block": 0
+  },
+  "423295": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 99
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "518f7b3d085fd325eae3fb87158dc6f905fead33b6170784852d2a456cdf4f96",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 80
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 57,
+    "usd_cents_per_bitcoin": 60737,
+    "block_hash": "000000000000000001c236a9d844fdc73e9f4eeb027036e4aa1a000073fc4ad2",
+    "block_number": 423295,
+    "block_network_arrival_date": "2016-08-02T08:19:30.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 1
   }
 }
