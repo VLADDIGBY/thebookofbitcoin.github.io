@@ -4814,5 +4814,24 @@
     "mining_pool_id": "haobtc",
     "mining_pool_name": "HaoBTC",
     "minutes_since_last_block": 3
+  },
+  "423245": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 100
+      }
+    ],
+    "data_storage_percent": null,
+    "fixed_fee_percent": null,
+    "usd_cents_per_bitcoin": 62588,
+    "block_hash": "0000000000000000028a643e4e418ea5212b55d3295cf10f650234c584f493dd",
+    "block_number": 423245,
+    "block_network_arrival_date": "2016-08-02T00:17:44.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 0
   }
 }
