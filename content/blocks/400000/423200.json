@@ -9565,5 +9565,24 @@
     "mining_pool_id": "antpool",
     "mining_pool_name": "AntPool",
     "minutes_since_last_block": 12
+  },
+  "423287": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 100
+      }
+    ],
+    "data_storage_percent": null,
+    "fixed_fee_percent": null,
+    "usd_cents_per_bitcoin": 60737,
+    "block_hash": "0000000000000000007f97c0f65cd68616a816956ae7a1e546dac106bd51794d",
+    "block_number": 423287,
+    "block_network_arrival_date": "2016-08-02T07:04:24.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 0
   }
 }
