@@ -6746,6 +6746,125 @@
     "mining_pool_name": "HaoBTC",
     "minutes_since_last_block": 26
   },
+  "423058": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "93e5fb7f8ad8ad6dd07a4e3f9e2ad9ac1b946e171b7cdd8692d97e48dd4959ea",
+        "percent": 100,
+        "range": 8,
+        "satoshis_per_byte_fee": 10
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "31a6fd5adb52c06cee1710607e843cde7236579146b6163d9edcd390bfe0eebd",
+        "percent": 92,
+        "range": 8,
+        "satoshis_per_byte_fee": 21
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "05b21524f1b13836a0e0033dc6c3e090980033c8dd6606fd5783278d863bfac7",
+        "percent": 84,
+        "range": 8,
+        "satoshis_per_byte_fee": 27
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "e35af278486d7da7d6744f98c84ea1a0b0ce84dac5becc36dedcfa1e6eb87aa6",
+        "percent": 76,
+        "range": 10,
+        "satoshis_per_byte_fee": 32
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "1b9355d599299c58e8ba835c5d8fc47790a4e4e1d9fa5f600f9c31cbcb221bcb",
+        "percent": 66,
+        "range": 13,
+        "satoshis_per_byte_fee": 38
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "901e37bf1a9d677303d18db32a3938f78061e49981c5c378fb3a95511caf9b17",
+        "percent": 53,
+        "range": 16,
+        "satoshis_per_byte_fee": 44
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "640750758a4527f5850627994c03904564fb6ee42987fd5b618038098878c106",
+        "percent": 37,
+        "range": 23,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "7fbf62bc648d732da40b1ae2e99abd84f3d7a5b472efbd48f11f16655ee2c2ad",
+        "percent": 14,
+        "range": 6,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "523a0d07e6028eaab73d4d02fc221fbf63a25fa383ba719484b4253522e243cf",
+        "percent": 8,
+        "range": 1,
+        "satoshis_per_byte_fee": 61
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "ec562b281c4eef0bde8c07b24b243e7673f878698c3a0c780129073ae21684e7",
+        "percent": 7,
+        "range": 2,
+        "satoshis_per_byte_fee": 68
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "a89451bde607611e4b67afa27aa5d05a3d63cba1aff6e9f8b4896e6d24828150",
+        "percent": 5,
+        "range": 1,
+        "satoshis_per_byte_fee": 79
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "4a3d9075ac913d00b7ec39df2f9a546fa217768fc00cfd8ce986db63111236dc",
+        "percent": 4,
+        "range": 1,
+        "satoshis_per_byte_fee": 83
+      },
+      {
+        "fee_in_dollars": "0.16",
+        "lowest_fee_txid": "fb13e72f941f62634e06b5761f0b9b38ae5b82597b75b86da47b5d69133f351b",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 97
+      },
+      {
+        "fee_in_dollars": "0.26",
+        "lowest_fee_txid": "c0f2ed4c6ab36d90993e317aea318aefd97195952ca0a1809cbaf78e60d4c039",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 154
+      },
+      {
+        "fee_in_dollars": "0.30",
+        "lowest_fee_txid": "a158bca788f9ec2126e6197e370c602f95551bb5f6ef850bae295b8ceefab831",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 180
+      }
+    ],
+    "data_storage_percent": 1,
+    "fixed_fee_percent": 35,
+    "usd_cents_per_bitcoin": 65498,
+    "block_hash": "000000000000000002d3f0a231279b395acb43f3f428907c0d8fbed2e7759f77",
+    "block_number": 423058,
+    "block_network_arrival_date": "2016-07-31T19:28:47.000Z",
+    "mining_pool_id": "btcc",
+    "mining_pool_name": "BTCC",
+    "minutes_since_last_block": 3
+  },
   "423113": {
     "block_full_percent": 100,
     "chunks": [
