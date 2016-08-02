@@ -3823,5 +3823,31 @@
     "mining_pool_id": "bwpool",
     "mining_pool_name": "BW Pool",
     "minutes_since_last_block": 4
+  },
+  "423235": {
+    "block_full_percent": 0,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 99
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "93a3f3c504de96fc2808d015cb76af479095079e35e1f68aad8fda6af80daf40",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 89
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 28,
+    "usd_cents_per_bitcoin": 62588,
+    "block_hash": "000000000000000000406208e27eec2c42e670175a6ad9b182c5c7543fb12cb5",
+    "block_number": 423235,
+    "block_network_arrival_date": "2016-08-01T23:05:28.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 0
   }
 }
