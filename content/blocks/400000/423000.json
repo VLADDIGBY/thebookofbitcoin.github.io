@@ -9676,6 +9676,130 @@
     "mining_pool_name": "Bitfury",
     "minutes_since_last_block": 3
   },
+  "423083": {
+    "block_full_percent": 59,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 41
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "7ff7421af7c567f69c8d8099b5aa61449dae6c3a24e7ed77d7db7e0da122e56e",
+        "percent": 59,
+        "range": 2,
+        "satoshis_per_byte_fee": 20
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "602ac6fce25383387e6b7d086f32461ed3c0ebe75b5d45d17d5027f1df1adaa5",
+        "percent": 57,
+        "range": 2,
+        "satoshis_per_byte_fee": 26
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "1604ec0cb9157f34b440aa85e856d37dbfdb4089339f9c3732864c8d9833ba51",
+        "percent": 55,
+        "range": 1,
+        "satoshis_per_byte_fee": 31
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "4451a41907087572161fc81a86555fd836db22b233bdf573c0a4db6f784ed4cc",
+        "percent": 54,
+        "range": 8,
+        "satoshis_per_byte_fee": 38
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "d71533e91123b0dee3f5a108aa5de6dd60b49ab68db4dd600aa66b8b56647b45",
+        "percent": 46,
+        "range": 3,
+        "satoshis_per_byte_fee": 44
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "67908fd20afc6e568d0554638581ca80a5a9bf8d556e23393ad8a9ff23949c3a",
+        "percent": 43,
+        "range": 7,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "3e4b0f85c5574faac219e40ee9046a3974c66de08665017cbf927d516a735fdc",
+        "percent": 36,
+        "range": 3,
+        "satoshis_per_byte_fee": 56
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "ff1c783b01de9517386a395476d0eef45dbba6bdafa244a43308db8d89c3bf75",
+        "percent": 33,
+        "range": 2,
+        "satoshis_per_byte_fee": 62
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "f51846783a24ca5c97cc8abde4f0c97dd4dec2525ff07ef78e1563017f02b38e",
+        "percent": 31,
+        "range": 22,
+        "satoshis_per_byte_fee": 67
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "f53ce5cb776a67b0d1581d3c9a75c560ae92b8c0d09d12259567230c08499fef",
+        "percent": 9,
+        "range": 2,
+        "satoshis_per_byte_fee": 80
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "cfee7f26b9e38af833b26636d92fa7b5e14d55d1a3ea39196c2598805e56158e",
+        "percent": 7,
+        "range": 1,
+        "satoshis_per_byte_fee": 86
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "b0e711648cb87a68bb4bbcd1aaef653dc08ca3c0f70dab69210ca6d921c78cbb",
+        "percent": 6,
+        "range": 1,
+        "satoshis_per_byte_fee": 92
+      },
+      {
+        "fee_in_dollars": "0.18",
+        "lowest_fee_txid": "d9a2c9bd5250cae2989e667313109a1fbb845e2120464cf0223c37ea411b13a8",
+        "percent": 5,
+        "range": 3,
+        "satoshis_per_byte_fee": 109
+      },
+      {
+        "fee_in_dollars": "0.20",
+        "lowest_fee_txid": "5dae944a414ac81b8b1ddfdf720edfd6457ee7267ab59ecb9262299cbc07b90f",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 120
+      },
+      {
+        "fee_in_dollars": "0.30",
+        "lowest_fee_txid": "d8f79954b4c4c31d13141bef8d1877d91fb3cfcfac626af0d407168ba01cc0b5",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 180
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 20,
+    "usd_cents_per_bitcoin": 65498,
+    "block_hash": "00000000000000000221e76ded30f0f87bfd5632bd0275fe21e4d4e989cbd6fa",
+    "block_number": 423083,
+    "block_network_arrival_date": "2016-07-31T22:45:37.000Z",
+    "mining_pool_id": "bwpool",
+    "mining_pool_name": "BW Pool",
+    "minutes_since_last_block": 9
+  },
   "423113": {
     "block_full_percent": 100,
     "chunks": [
