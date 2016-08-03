@@ -3607,5 +3607,72 @@
     "block_network_arrival_date": "2016-08-03T10:05:58.000Z",
     "mining_pool_id": "antpool",
     "mining_pool_name": "AntPool"
+  },
+  "423486": {
+    "block_full_percent": 15,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 85
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "e161147138b04343064abd0ef042a1905494d6f3a0f6dc1e9daeea5be4bb0502",
+        "percent": 15,
+        "range": 1,
+        "satoshis_per_byte_fee": 12
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "043edbfede00a712baa0d348e7911bdbe9a11b4ec9708903b8886fabab9f8901",
+        "percent": 14,
+        "range": 1,
+        "satoshis_per_byte_fee": 30
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "1d1ec238cad7e9da0d3edf728683107fdc1881453fba04060b77afda8bcf1e05",
+        "percent": 13,
+        "range": 1,
+        "satoshis_per_byte_fee": 45
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "d330cf8d7965a2dec587db079726ee49b68fdf113080cc98420f6beb288e3c04",
+        "percent": 12,
+        "range": 9,
+        "satoshis_per_byte_fee": 53
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "9431041ad0379e7b86422da82e2936163e9c1538eda2289c2abefbaac2b5ee17",
+        "percent": 3,
+        "range": 1,
+        "satoshis_per_byte_fee": 59
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "086897b51c5ae4cd77b61d87e46cf8b8ad52460e617e6c4287277a1eb507e48f",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 66
+      },
+      {
+        "fee_in_dollars": "0.13",
+        "lowest_fee_txid": "4c7da839770910b94ad8738c0452910312726a37ff125ced05e12ea973a505f4",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 93
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 16,
+    "usd_cents_per_bitcoin": 55282,
+    "block_hash": "00000000000000000232cc997fec7da56409e362148487630c3a8c9020930a97",
+    "block_number": 423486,
+    "block_network_arrival_date": "2016-08-03T13:47:35.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool"
   }
 }
