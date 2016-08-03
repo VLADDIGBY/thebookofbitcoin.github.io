@@ -1341,5 +1341,124 @@
     "mining_pool_id": "1hash",
     "mining_pool_name": "1Hash",
     "minutes_since_last_block": 20
+  },
+  "423425": {
+    "block_full_percent": 100,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "f3bce02f3b7d2170401edf5d935e783cf7dc17f05059fd06ac2a1efc0c102014",
+        "percent": 100,
+        "range": 29,
+        "satoshis_per_byte_fee": 34
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "bd60cdcdc567d610d11b96e5d2f4aaac351fbe727bdf2f0ba65de6befd194046",
+        "percent": 71,
+        "range": 9,
+        "satoshis_per_byte_fee": 45
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "54a2f38725c110fbc59bdd34f8b9ffcdf366dfb5922f836e5b2eeab473eb8b8d",
+        "percent": 62,
+        "range": 26,
+        "satoshis_per_byte_fee": 52
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "ab92ca424730fc43d5a8564b8b0641034a2be42008c2818628b6adbb367b3f3f",
+        "percent": 36,
+        "range": 13,
+        "satoshis_per_byte_fee": 60
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "340ad1838a78710628340b51ae6bb9a71507204409effe709cd3eb696a123615",
+        "percent": 23,
+        "range": 1,
+        "satoshis_per_byte_fee": 66
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "a3ba816be3d0d156b9e78450e72587716bf25942e31581e45d167e7f47551f49",
+        "percent": 22,
+        "range": 3,
+        "satoshis_per_byte_fee": 73
+      },
+      {
+        "fee_in_dollars": "0.11",
+        "lowest_fee_txid": "73c4c2ad7af81b6515d3ae13a0c71ff41597fc7e6f0b40a204d05ac94aa737d1",
+        "percent": 19,
+        "range": 2,
+        "satoshis_per_byte_fee": 81
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "b4b988e88a53553e88c2a105f04d599965f84931d3dfc7f2e21183ae73fc27ee",
+        "percent": 17,
+        "range": 2,
+        "satoshis_per_byte_fee": 87
+      },
+      {
+        "fee_in_dollars": "0.14",
+        "lowest_fee_txid": "791e9367f65fb38ecf69b59f47fdea8c4b4ca7548a72ae60f34b269b20511a5b",
+        "percent": 15,
+        "range": 1,
+        "satoshis_per_byte_fee": 101
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "6a436ffa858427e8d6a3bc48c75c0e2457fa5afc87f624f8908b050c7c7b9b8f",
+        "percent": 14,
+        "range": 1,
+        "satoshis_per_byte_fee": 108
+      },
+      {
+        "fee_in_dollars": "0.17",
+        "lowest_fee_txid": "6c8b1d09ebb975ec239f972cb3849baf773698cc95324542d212863d63cae12c",
+        "percent": 13,
+        "range": 1,
+        "satoshis_per_byte_fee": 121
+      },
+      {
+        "fee_in_dollars": "0.21",
+        "lowest_fee_txid": "5bfd25f71aba7957ccf2984909a5a19a9f61670fdf73debabb2175af280452c6",
+        "percent": 12,
+        "range": 2,
+        "satoshis_per_byte_fee": 150
+      },
+      {
+        "fee_in_dollars": "0.25",
+        "lowest_fee_txid": "373feb6932a3cfcaaf51a8446886e0c63b678c3e2e7c375ba69024e0fda5e392",
+        "percent": 10,
+        "range": 8,
+        "satoshis_per_byte_fee": 179
+      },
+      {
+        "fee_in_dollars": "0.26",
+        "lowest_fee_txid": "c219b9b87f87878defdab908c02f4867e5ebf0a9da3e9507d75e40f98495b80d",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 182
+      },
+      {
+        "fee_in_dollars": "0.28",
+        "lowest_fee_txid": "3ba7cbca05bcb6e999900381aea6d604181a7c47ce163043ee9d2cc3ef7322d2",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 195
+      }
+    ],
+    "data_storage_percent": 0,
+    "fixed_fee_percent": 37,
+    "usd_cents_per_bitcoin": 55282,
+    "block_hash": "000000000000000002a2c91430e0bb9d91fcde413d7ed7b80491a20bc8b8cefa",
+    "block_number": 423425,
+    "block_network_arrival_date": "2016-08-03T05:36:21.000Z",
+    "mining_pool_id": "bitclubnetwork",
+    "mining_pool_name": "BitClub Network",
+    "minutes_since_last_block": 20
   }
 }
