@@ -6809,6 +6809,68 @@
     "mining_pool_name": "DiscusFish / F2Pool",
     "minutes_since_last_block": 1
   },
+  "423458": {
+    "block_full_percent": 99,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "lowest_fee_txid": "621925f93cf75d03dd53c38eba54c91202f05d1cfa5117c6d65b245c9519d971",
+        "percent": 100,
+        "range": 91,
+        "satoshis_per_byte_fee": 1
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "b402f257432584f2c1742b4caa5d70a0095b2a84ff77e1d31af81d3fe029c98c",
+        "percent": 9,
+        "range": 2,
+        "satoshis_per_byte_fee": 10
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "e2d379b92106ea9bf8ab8ac9707d40658b3a5d2ab30dca58cccde4323aeab4d7",
+        "percent": 7,
+        "range": 1,
+        "satoshis_per_byte_fee": 23
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "fa849cc233fd8242a7c7038391ed294909083c19edc028ffe71070a019e01bd7",
+        "percent": 6,
+        "range": 1,
+        "satoshis_per_byte_fee": 38
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "013ffa57993111e2d7250c87c26748f99707650d56008fab7fbffee5e24b844e",
+        "percent": 5,
+        "range": 3,
+        "satoshis_per_byte_fee": 45
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "bc9f0e8e33704f58452f27ff865337766b10e13f0f6999ff9abe9e8f8b42cb85",
+        "percent": 2,
+        "range": 1,
+        "satoshis_per_byte_fee": 60
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "ab402a27cdbc7d301c9193c2bd6ab4628cb55336b408511861da46aaea325ac7",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 87
+      }
+    ],
+    "fixed_fee_percent": 8,
+    "usd_cents_per_bitcoin": 55282,
+    "block_hash": "0000000000000000031028aed093e424be5b84b57979e6b5f6dc1ba1e8be13f7",
+    "block_number": 423458,
+    "block_network_arrival_date": "2016-08-03T10:05:35.000Z",
+    "mining_pool_id": "haobtc",
+    "mining_pool_name": "HaoBTC",
+    "minutes_since_last_block": 2
+  },
   "423575": {
     "block_full_percent": 100,
     "chunks": [
