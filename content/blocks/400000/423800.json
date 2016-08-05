@@ -6787,5 +6787,128 @@
     "mining_pool_id": "slush",
     "mining_pool_name": "Slush",
     "minutes_since_last_block": 13
+  },
+  "423858": {
+    "block_full_percent": 37,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 63
+      },
+      {
+        "fee_in_dollars": "0.01",
+        "lowest_fee_txid": "f2bb193cff178fbf81ab78a0a623aff8bc31bdc9da5a902f73e372b82ad23f34",
+        "percent": 37,
+        "range": 2,
+        "satoshis_per_byte_fee": 5
+      },
+      {
+        "fee_in_dollars": "0.02",
+        "lowest_fee_txid": "69b80c0b00bd70dbe437a823769c2d3844010d73f945fc54006c77218c9a0394",
+        "percent": 35,
+        "range": 5,
+        "satoshis_per_byte_fee": 16
+      },
+      {
+        "fee_in_dollars": "0.03",
+        "lowest_fee_txid": "02ea95dd8b46f6d81ed9190d9a12d5d71e8844f345451fd83cbb2319a6e3c51a",
+        "percent": 30,
+        "range": 2,
+        "satoshis_per_byte_fee": 22
+      },
+      {
+        "fee_in_dollars": "0.04",
+        "lowest_fee_txid": "9c005484525fd78c6e6568006a2869b0a65a5a9c61db21ab269991aeb02586cc",
+        "percent": 28,
+        "range": 4,
+        "satoshis_per_byte_fee": 30
+      },
+      {
+        "fee_in_dollars": "0.05",
+        "lowest_fee_txid": "429f6447da3d1dbb60db1788ad38f826c6580b3354855b2212a27032a014ace7",
+        "percent": 24,
+        "range": 2,
+        "satoshis_per_byte_fee": 37
+      },
+      {
+        "fee_in_dollars": "0.06",
+        "lowest_fee_txid": "98ca30344ca85414b9a90d319aa6d5e6035ce38dc15eac0e4cdbd3594440c5d7",
+        "percent": 22,
+        "range": 3,
+        "satoshis_per_byte_fee": 43
+      },
+      {
+        "fee_in_dollars": "0.07",
+        "lowest_fee_txid": "ecb6099f58a2ffce407bed13e31bcc44c441f52298cfc20235d2aa7e9cc937e1",
+        "percent": 19,
+        "range": 5,
+        "satoshis_per_byte_fee": 50
+      },
+      {
+        "fee_in_dollars": "0.08",
+        "lowest_fee_txid": "a85f04bf64894691c595c83cc02dbf0610f7be98a6f4eafa6afbb1243b7673cd",
+        "percent": 14,
+        "range": 1,
+        "satoshis_per_byte_fee": 57
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "8419560f50d9a53ebacad40d7a541ff9f2766b9ea58017ba74b53ba0587eaaf8",
+        "percent": 13,
+        "range": 2,
+        "satoshis_per_byte_fee": 64
+      },
+      {
+        "fee_in_dollars": "0.10",
+        "lowest_fee_txid": "e0d1bc7e2d7b624a284fc8e85fd6312cd31e21bb15a0c5c6681ee0c627cd8967",
+        "percent": 11,
+        "range": 2,
+        "satoshis_per_byte_fee": 70
+      },
+      {
+        "fee_in_dollars": "0.12",
+        "lowest_fee_txid": "4d2aa3aa54d1a03b5fdb40952515601ed0c4365ca380f2ec59aa55de35ed540a",
+        "percent": 9,
+        "range": 1,
+        "satoshis_per_byte_fee": 83
+      },
+      {
+        "fee_in_dollars": "0.15",
+        "lowest_fee_txid": "3d65c95495c959245c7618c07ea7c7c5466fa5504602850411c2f9f9637ab038",
+        "percent": 8,
+        "range": 3,
+        "satoshis_per_byte_fee": 104
+      },
+      {
+        "fee_in_dollars": "0.18",
+        "lowest_fee_txid": "81e48a14cb8b57f83680432a2628a0dbdf7d3f670535787837fb1266dcdd95b4",
+        "percent": 5,
+        "range": 1,
+        "satoshis_per_byte_fee": 120
+      },
+      {
+        "fee_in_dollars": "0.26",
+        "lowest_fee_txid": "075e79dafe74b5ca2bdabde146912a28c16db73197cb1411dd45c05ada519500",
+        "percent": 4,
+        "range": 3,
+        "satoshis_per_byte_fee": 174
+      },
+      {
+        "fee_in_dollars": "0.27",
+        "lowest_fee_txid": "4308cbfb49de56cdb186fa64498bb1dd71a6877a1b5461e066070fa7bfeddbe8",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 182
+      }
+    ],
+    "fixed_fee_percent": 42,
+    "usd_cents_per_bitcoin": 57832,
+    "block_hash": "0000000000000000035f44baadbd94eef6c608fe4e068db4d556535a4f45d875",
+    "block_number": 423858,
+    "block_network_arrival_date": "2016-08-05T20:23:47.000Z",
+    "mining_pool_id": "kncminer",
+    "mining_pool_name": "KNCMiner",
+    "minutes_since_last_block": 4
   }
 }
