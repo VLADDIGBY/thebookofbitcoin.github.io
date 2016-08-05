@@ -1,0 +1,33 @@
+#blocks {
+    padding: 0 40px;
+}
+body: {
+    font-size: 0px;
+}
+.buffer {
+    display: inline-block;
+}
+.chunk {
+    border-radius: 6px;
+    float: left;
+    font-size: 10px;
+    height: 13px;
+    position: relative;
+}
+.chunk.empty {
+    background: rgba(247, 247, 247, 0.63) !important;
+}
+.chunk .fee {
+    background: #fff;
+    border-radius: 9px;
+    bottom: 4px;
+    color: white;
+    font-size: 0;
+    height: 6px;
+    left: 1px;
+    padding: 0;
+    position: absolute;
+    width: 6px;
+    z-index: 10;
+}
+
