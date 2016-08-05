@@ -6871,6 +6871,31 @@
     "mining_pool_name": "HaoBTC",
     "minutes_since_last_block": 2
   },
+  "423459": {
+    "block_full_percent": 1,
+    "chunks": [
+      {
+        "fee_in_dollars": "0.00",
+        "percent": 100,
+        "range": 99
+      },
+      {
+        "fee_in_dollars": "0.09",
+        "lowest_fee_txid": "1d21af9d46bea78e74b254ba8f7a70502e245d7df8aa204b5edec2ba0ef3adb2",
+        "percent": 1,
+        "range": 1,
+        "satoshis_per_byte_fee": 61
+      }
+    ],
+    "fixed_fee_percent": 36,
+    "usd_cents_per_bitcoin": 55282,
+    "block_hash": "000000000000000002e82ae861f43fd87f7a5efabba2d1423694a002accbbf6e",
+    "block_number": 423459,
+    "block_network_arrival_date": "2016-08-03T10:05:58.000Z",
+    "mining_pool_id": "antpool",
+    "mining_pool_name": "AntPool",
+    "minutes_since_last_block": 0
+  },
   "423575": {
     "block_full_percent": 100,
     "chunks": [
